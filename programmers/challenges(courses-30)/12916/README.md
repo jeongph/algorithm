@@ -1,4 +1,4 @@
-# :bookmark_tabs: [Title here][title]
+# :bookmark_tabs: [문자열 내 p와 y의 개수][title]
 
 ## :question: Problem
 
@@ -14,4 +14,4 @@
 ```
 ### 풀이
 
-[title]: 
+[title]: https://programmers.co.kr/learn/courses/30/lessons/12916
