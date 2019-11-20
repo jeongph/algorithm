@@ -1,4 +1,4 @@
-# Diagonal Difference
+# [Diagonal Difference][Diagonal Difference]
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
 For example, the square matrix __arr__ is shown below:
@@ -18,3 +18,5 @@ The first line contains a single integer, __n__, the number of rows and columns 
 
 ## Output Format
 Print the absolute difference between the sums of the matrix's two diagonals as a single integer.
+
+[Diagonal Difference]: https://www.hackerrank.com/challenges/diagonal-difference/problem
