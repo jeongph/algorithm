@@ -1,12 +1,14 @@
 # :bookmark_tabs: [Title here][title]
 
-## :question: Problem
+## :question: Problem(문제)
 
-## :warning: Function Description
+### :information_source: Function Description(매개변수 속성)
 
-## :arrow_right: Input
+### :warning: Constraints(제약 조건)
 
-## :arrow_left: Output
+### :arrow_right: Input Format
+
+### :arrow_left: Output Format
 
 ## :white_check_mark: Submit
 ### 중요 코드
