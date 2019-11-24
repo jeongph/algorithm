@@ -21,10 +21,11 @@ study-algorithm
 | Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor      |                | [Link][my_Baekjoon]    |
 | Programmers           | https://programmers.co.kr/learn/challenges | Kor      |                |                        |
 | HackerRank            | https://www.hackerrank.com/                | Eng      |                | [Link][my_Programmers] |
+| Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |                | [Link][my_Algospot]    |
 | Codility              | https://app.codility.com/programmers/      | Eng      |                |                        |
-| coding dojang         | http://codingdojang.com/                   | Kor      |                |                        |
+| codingdojang          | http://codingdojang.com/                   | Kor      |                |                        |
 | Jung ol               | http://www.jungol.co.kr/                   | Kor      |                |                        |
-| Algo spot             | https://algospot.com/judge/problem/list/   |          |                |                        |
+
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
 [/Programmers]: https://github.com/bin-e/algorithm/tree/master/programmers
@@ -32,3 +33,4 @@ study-algorithm
 
 [my_baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_Programmers]: https://www.hackerrank.com/dnr1105
+[my_Algospot]: https://algospot.com/user/profile/92448
