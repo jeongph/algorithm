@@ -15,11 +15,15 @@ study-algorithm
 
 > 코더로 남고싶진 않다. 개발자가 되고싶다.
 
-## Algorithm site list
-|List|URL|비고|
-|--|--|--|
-백준(Baekjoon Online Judge)|https://www.acmicpc.net/||
-프로그래머스(programmers)|https://programmers.co.kr/||
-해커랭크(HackerRank)|https://www.hackerrank.com/||
+## Algorithm test site list
+| List                  | URL                                        | Remarks(Notes) |
+| --------------------- | ------------------------------------------ | -------------- |
+| Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor            |
+| Programmers           | https://programmers.co.kr/learn/challenges | Kor            |
+| HackerRank            | https://www.hackerrank.com/                | Eng            |
+| Codility              | https://app.codility.com/programmers/      | Eng            |
+| coding dojang         | http://codingdojang.com/                   | Kor            |
+| Jung ol               | http://www.jungol.co.kr/                   | Kor            |
+| Algo spot             | https://algospot.com/judge/problem/list/   |                |
 
 [\backjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
