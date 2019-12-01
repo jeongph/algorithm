@@ -1,19 +1,20 @@
 # :bookmark_tabs: [Title_here][title]
 
-## :question: Problem(문제)
+## :question: Problem
 
-### :information_source: Function Description(매개변수 속성)
+### :information_source: Function description
 
-### :warning: Constraints(제약 조건)
+### :warning: Constraints
 
-### :arrow_right: Input Format
+### :arrow_right: Input format example
 
-### :arrow_left: Output Format
+### :arrow_left: Output format example
 
 ## :white_check_mark: Submit
-### 중요 코드
+### Solved code
+(Important part only)
 ``` java
 ```
-### 풀이
+### Commentary
 
 [title]: 
