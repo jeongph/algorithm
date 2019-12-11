@@ -36,7 +36,7 @@ study-algorithm
 
 - [01110 : 더하기 사이클](https://github.com/bin-e/algorithm/tree/master/baekjoon/01110)
 - [01152 : 단어의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/01152)
-- [01157 : 단어 공부](https://github.com/bin-e/algorithm/tree/master/baekjoon/01157)
+- [01157 : 단어 공부 (O)](https://github.com/bin-e/algorithm/tree/master/baekjoon/01157)
 - [01546 : 평균](https://github.com/bin-e/algorithm/tree/master/baekjoon/01546)
 - [02438 : 별 찍기 - 1](https://github.com/bin-e/algorithm/tree/master/baekjoon/02438)
 - [02439 : 별 찍기 - 2](https://github.com/bin-e/algorithm/tree/master/baekjoon/02439)
@@ -44,7 +44,7 @@ study-algorithm
 - [02562 : 최댓값](https://github.com/bin-e/algorithm/tree/master/baekjoon/02562)
 - [02577 : 숫자의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02577)
 - [02675 : 문자열 반복](https://github.com/bin-e/algorithm/tree/master/baekjoon/02675)
-- [02869 : 달팽이는 올라가고 싶다](https://github.com/bin-e/algorithm/tree/master/baekjoon/02869)
+- [02869 : 달팽이는 올라가고 싶다 (O)](https://github.com/bin-e/algorithm/tree/master/baekjoon/02869)
 - [02908 : 상수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02908)
 - [02920 : 음계](https://github.com/bin-e/algorithm/tree/master/baekjoon/02920)
 - [03052 : 나머지](https://github.com/bin-e/algorithm/tree/master/baekjoon/03052)
@@ -65,10 +65,24 @@ study-algorithm
 </details>
 
 <details>
-<summary>Programmers</summary>
-</details>
-<details>
 <summary>HackerRank</summary>
+
+- `-`
+</details>
+
+<details>
+<summary>Programmers</summary>
+
+- [12903 : 가운데 글자 가져오기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12903)
+- [12910 : 나누어 떨어지는 숫자 배열](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12910)
+- [12912 : 두 정수 사이의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12912)
+- [12915 : 문자열 내 마음대로 정렬하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12915)
+- [12916 : 문자열 내 p와 y의 개수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/)
+- [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12916)
+- [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
+- [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
+- [42748 : K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
+- [42840 : 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
 </details>
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
