@@ -1,4 +1,4 @@
-# :bookmark_tabs: [평균][title]
+# :bookmark_tabs: [X보다 작은 수][title]
 
 ## :question: Problem
 
@@ -14,4 +14,5 @@
 ### References
 (If there is any reference)
 
-[title]: https://www.acmicpc.net/problem/1546
+# :bookmark_tabs: [X보다 작은 수][title]
+[title]: 

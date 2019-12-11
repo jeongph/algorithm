@@ -19,8 +19,9 @@ study-algorithm
 | List                  | URL                                        | Language | Remarks(Notes) | My own                 |
 | --------------------- | ------------------------------------------ | -------- | -------------- | ---------------------- |
 | Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor      |                | [Link][my_Baekjoon]    |
-| Programmers           | https://programmers.co.kr/learn/challenges | Kor      |                |                        |
 | HackerRank            | https://www.hackerrank.com/                | Eng      |                | [Link][my_Programmers] |
+| Programmers           | https://programmers.co.kr/learn/challenges | Kor      |                |                        |
+| --- Unexplored ---    |                                            |          |                |                        |
 | Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |                | [Link][my_Algospot]    |
 | Jung ol               | http://www.jungol.co.kr/                   | Kor      |                |                        |
 | Codility              | https://app.codility.com/programmers/      | Eng      |                |                        |
@@ -28,6 +29,47 @@ study-algorithm
 
 ## :bulb: Tips
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
+
+## List of `Solved`
+<details>
+<summary>Baekjoon Online Judge</summary>
+
+- [01110 : 더하기 사이클](https://github.com/bin-e/algorithm/tree/master/baekjoon/01110)
+- [01152 : 단어의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/01152)
+- [01157 : 단어 공부](https://github.com/bin-e/algorithm/tree/master/baekjoon/01157)
+- [01546 : 평균](https://github.com/bin-e/algorithm/tree/master/baekjoon/01546)
+- [02438 : 별 찍기 - 1](https://github.com/bin-e/algorithm/tree/master/baekjoon/02438)
+- [02439 : 별 찍기 - 2](https://github.com/bin-e/algorithm/tree/master/baekjoon/02439)
+- [02557 : Hello World](https://github.com/bin-e/algorithm/tree/master/baekjoon/02557)
+- [02562 : 최댓값](https://github.com/bin-e/algorithm/tree/master/baekjoon/02562)
+- [02577 : 숫자의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02577)
+- [02675 : 문자열 반복](https://github.com/bin-e/algorithm/tree/master/baekjoon/02675)
+- [02869 : 달팽이는 올라가고 싶다](https://github.com/bin-e/algorithm/tree/master/baekjoon/02869)
+- [02908 : 상수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02908)
+- [02920 : 음계](https://github.com/bin-e/algorithm/tree/master/baekjoon/02920)
+- [03052 : 나머지](https://github.com/bin-e/algorithm/tree/master/baekjoon/03052)
+- [04153 : 직각삼각형](https://github.com/bin-e/algorithm/tree/master/baekjoon/04153)
+- [04344 : 평균은 넘겠지](https://github.com/bin-e/algorithm/tree/master/baekjoon/04344)
+- [07287 : 등록](https://github.com/bin-e/algorithm/tree/master/baekjoon/07287)
+- [08958 : OX퀴즈](https://github.com/bin-e/algorithm/tree/master/baekjoon/08958)
+- [10171 : 고양이](https://github.com/bin-e/algorithm/tree/master/baekjoon/10171)
+- [10172 : 개](https://github.com/bin-e/algorithm/tree/master/baekjoon/10172)
+- [10718 : We love kriii](https://github.com/bin-e/algorithm/tree/master/baekjoon/10718)
+- [10809 : 알파벳 찾기](https://github.com/bin-e/algorithm/tree/master/baekjoon/10809)
+- [10818 : 최소, 최대](https://github.com/bin-e/algorithm/tree/master/baekjoon/10818)
+- [10871 : X보다 작은 수](https://github.com/bin-e/algorithm/tree/master/baekjoon/10871)
+- [10951 : A+B - 4](https://github.com/bin-e/algorithm/tree/master/baekjoon/10951)
+- [10952 : A+B - 5](https://github.com/bin-e/algorithm/tree/master/baekjoon/10952)
+- [11654 : 아스키 코드](https://github.com/bin-e/algorithm/tree/master/baekjoon/11654)
+- [11720 : 숫자의 합](https://github.com/bin-e/algorithm/tree/master/baekjoon/11720)
+</details>
+
+<details>
+<summary>Programmers</summary>
+</details>
+<details>
+<summary>HackerRank</summary>
+</details>
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
 [/Programmers]: https://github.com/bin-e/algorithm/tree/master/programmers

@@ -1,4 +1,4 @@
-# :bookmark_tabs: [평균][title]
+# :bookmark_tabs: [상수][title]
 
 ## :question: Problem
 
@@ -14,4 +14,4 @@
 ### References
 (If there is any reference)
 
-[title]: https://www.acmicpc.net/problem/1546
+[title]: https://www.acmicpc.net/problem/2908
