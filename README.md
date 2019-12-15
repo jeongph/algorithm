@@ -80,6 +80,7 @@ study-algorithm
 - [12916 : 문자열 내 p와 y의 개수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12916)
 - [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12919)
 - [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
+- [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [12969 : 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
 - [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
 - [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
