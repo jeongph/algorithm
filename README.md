@@ -31,6 +31,7 @@ study-algorithm
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
 
 ## List of `Solved`
+> checkbox는 풀이 작성 여부, Template 맞춰서 반드시 풀이 작성 할 것
 <details>
 <summary>Baekjoon Online Judge</summary>
 
@@ -73,19 +74,20 @@ study-algorithm
 <details>
 <summary>Programmers</summary>
 
-- [12903 : 가운데 글자 가져오기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12903)
-- [12910 : 나누어 떨어지는 숫자 배열](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12910)
-- [12912 : 두 정수 사이의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12912)
-- [12915 : 문자열 내 마음대로 정렬하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12915)
-- [12916 : 문자열 내 p와 y의 개수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12916)
-- [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12919)
-- [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
-- [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
-- [12969 : 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
-- [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
-- [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
-- [42748 : K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
-- [42840 : 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
+- [x] [12903 : 가운데 글자 가져오기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12903)
+- [x] [12906 : 같은 숫자는 싫어](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12906)
+- [ ] [12910 : 나누어 떨어지는 숫자 배열](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12910)
+- [ ] [12912 : 두 정수 사이의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12912)
+- [x] [12915 : 문자열 내 마음대로 정렬하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12915)
+- [ ] [12916 : 문자열 내 p와 y의 개수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12916)
+- [x] [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12919)
+- [x] [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
+- [x] [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
+- [x] [12969 : 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
+- [x] [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
+- [ ] [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
+- [x] [42748 : K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
+- [x] [42840 : 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
 </details>
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
