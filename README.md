@@ -27,6 +27,10 @@ study-algorithm
 | Codility              | https://app.codility.com/programmers/      | Eng      |                |                        |
 | codingdojang          | http://codingdojang.com/                   | Kor      |                |                        |
 
+[my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
+[my_Programmers]: https://www.hackerrank.com/dnr1105
+[my_Algospot]: https://algospot.com/user/profile/92448
+
 ## :bulb: Tips
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
 
@@ -94,7 +98,3 @@ study-algorithm
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
 [/Programmers]: https://github.com/bin-e/algorithm/tree/master/programmers
 [/HackerRank]: https://github.com/bin-e/algorithm/tree/master/hackerrank
-
-[my_baekjoon]: https://www.acmicpc.net/user/dnr1105
-[my_Programmers]: https://www.hackerrank.com/dnr1105
-[my_Algospot]: https://algospot.com/user/profile/92448
