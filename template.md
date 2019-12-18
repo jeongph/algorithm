@@ -6,9 +6,7 @@
 
 ### :warning: Constraints
 
-### :arrow_right: Input format example
-
-### :arrow_left: Output format example
+### :arrow_right: Input/Output example
 
 ## :white_check_mark: Submit
 ### Solved code
