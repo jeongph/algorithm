@@ -90,12 +90,13 @@ study-algorithm
 - [x] [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
 - [x] [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12937 : 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
+- [x] [12954 : x만큼 간격이 있는 n개의 숫자](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12954)
 - [x] [12969 : 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
 - [x] [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
-- [x] [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
+- [ ] [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
 - [x] [42748 : K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
 - [x] [42840 : 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
-- [x] [60057 : [2020카카오공채] 문자열 압축](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/60057)
+- [ ] [60057 : [2020카카오공채] 문자열 압축](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/60057)
 </details>
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
