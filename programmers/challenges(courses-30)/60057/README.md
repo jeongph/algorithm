@@ -31,16 +31,72 @@
 ### Solved code
 (Important part only)
 ``` java
+public int solution( String s )
+{
+    int len = s.length();
+    int answer = len;
+
+    int splitter = 1;
+    while( splitter < len )
+    {
+        ArrayList<String> al = new ArrayList<String>();
+        String ans_str = "";
+
+        for( int i = 0; i < len; i += splitter )
+        {
+            String temp;
+            if( i + splitter > len ) temp = s.substring( i, len );
+            else temp = s.substring( i, i + splitter );
+            al.add( temp ); // add subStrings
+        }
+
+        int same_counter = 0;
+        int splitter_size = al.size() - 1;
+        boolean isSame = false;
+        for( int i = 0 + 1; i <= splitter_size; i++ )
+        {
+            String pre_temp = al.get( i - 1 );
+            String temp = al.get( i );
+
+            if( pre_temp.equals( temp ) )
+            {
+                ++same_counter;
+                isSame = true;
+            }
+            else if( !pre_temp.equals( temp ) )
+            {
+                ans_str += same_counter != 0 ? "" + (same_counter + 1) + pre_temp : "" + pre_temp;
+                isSame = false;
+                same_counter = 0;
+            }
+
+            if(i == splitter_size)
+            {
+                ans_str += isSame ? "" + (same_counter + 1) + pre_temp : "" + temp;
+            }
+        }
+
+        int new_len = ans_str.length();
+        if( new_len < answer ) answer = new_len;
+
+        splitter++;
+    }
+
+    return answer;
+}
 ```
 ### Commentary
-- split으로 뻘짓 하다가, 특정 문자열을 순서대로 자르는것이 아닌것을 판단.
-- 생각을 어떻게 했냐면, 일단 subString으로 1,2,3 ... 순서대로 문자열을 잘라서 배열(ArrayList 생각함)에 넣음
-- ArrayList 안의 내용물을 하나씩 pop 하면서 같으면 숫자를 하나씩 올림(temp)
-- 올린 숫자와 해당 pop 문자열을 answer에 저장
-- answer의 최저값을 리턴(정답)
+- (split으로 뻘짓 하다가, 특정 문자열로 자르는것이 아닌것을 판단.)
+- 생각 자체는 단순했다, 일단 `n`으로 잘라서 최소의 길이를 판단하는건데 (이것도 다중분할인줄 알고 고생함)
+- 우선, 1단어부터 단어 전체 길이까지 각각 잘라보면서 어떤 `n`의 길이가 가장 짧은지 판단
+- 이때, 자른 단어를 array에 넣고 같은것이 있으면 압축, 아닐경우 비압축
+- 압축된 단어의 길이를 최소값으로 비교해서 answer에 담음
+- 리턴
 
 ### Discussion
-- [ ] -
+- [x]] 문제좀 똑바로, 자세히 읽고 풀 것 (제약사항이 있다는 것 == 한계가 정해져 있다는 것)
+- [ ] 풀이 자체는 엄청 어렵지도, 엄청 길지도 않았는데, 문제를 어렵게 생각한 나머지 못풀뻔 했다.
+- [ ] 이건 똑똑한분들의 풀이를 좀 확인해서 효율적인 코드가 있는지 봐야할 듯
 
 ### References
 (If there is any reference)

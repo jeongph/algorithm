@@ -96,7 +96,7 @@ study-algorithm
 - [ ] [42583 : 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
 - [x] [42748 : K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
 - [x] [42840 : 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
-- [ ] [60057 : [2020카카오공채] 문자열 압축](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/60057)
+- [x] [60057 : [2020카카오공채] 문자열 압축](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/60057)
 </details>
 
 [/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
