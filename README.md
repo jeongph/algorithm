@@ -89,7 +89,7 @@ study-algorithm
 - [x] [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12919)
 - [x] [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
 - [x] [12925 : 문자열을 정수로 바꾸기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12925)
-- [x] [12928 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
+- [x] [12928 : 약수의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
 - [x] [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12937 : 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
 - [x] [12944 : 평균 구하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12944)
