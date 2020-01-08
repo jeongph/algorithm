@@ -87,6 +87,7 @@ study-algorithm
 - [x] [12916 : 문자열 내 p와 y의 개수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12916)
 - [x] [12918 : 문자열 다루기 기본](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12918)
 - [x] [12919 : 서울에서 김서방 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12919)
+- [x] [12921 : 소수 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12921)
 - [x] [12922 : 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
 - [x] [12925 : 문자열을 정수로 바꾸기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12925)
 - [x] [12928 : 약수의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
