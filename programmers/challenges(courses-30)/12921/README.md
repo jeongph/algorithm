@@ -54,4 +54,4 @@ public int solution( int n )
 ### References
 - [소수 (수론)](https://ko.wikipedia.org/wiki/%EC%86%8C%EC%88%98_(%EC%88%98%EB%A1%A0))
 
-[title]: 
+[title]: https://programmers.co.kr/learn/courses/30/lessons/12921?language=java
