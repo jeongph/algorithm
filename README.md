@@ -1,6 +1,12 @@
 # Algorithm
 study-algorithm
 
+## Process
+1. 문제 선정 (하단의 test site list)
+2. 문제 풀이(IDE 는 상관 X)
+3. 해당 문제 풀이 폴더별로 정리 및 README와 해당 README.md 정리
+4. 업로드
+
 ## 스스로에게 물어본다. 알고리즘에 대해  
 > 아마도.. 규칙이 존재하지 않는 것 같은 일련의 상황이나 문제 속에서 규칙을 발견하고, 이전보다 더, 혹은 처음부터 효율적으로 돌아가도록 설계하는 것.
 > 그게 알고리즘의 궁극적인 목표가 아닐까..
@@ -92,6 +98,7 @@ study-algorithm
 - [x] [12925 : 문자열을 정수로 바꾸기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12925)
 - [x] [12928 : 약수의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
 - [x] [12930 : 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
+- [x] [12931 : 자릿수 더하기](./programmers/challenges(courses-30)/12931)
 - [x] [12937 : 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
 - [x] [12944 : 평균 구하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12944)
 - [x] [12954 : x만큼 간격이 있는 n개의 숫자](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12954)
