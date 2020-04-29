@@ -4,7 +4,6 @@
 [title]: 
 
 ## :question: Problem
-
 ### :information_source: Function description
 
 ### :ballot_box_with_check: Constraints
