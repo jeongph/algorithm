@@ -1,4 +1,4 @@
-# [Title_here][title]
+# [가운데 글자 가져오기][title]
 출처: https://programmers.co.kr/learn/courses/30/lessons/12903
 
 [title]: https://programmers.co.kr/learn/courses/30/lessons/12903
