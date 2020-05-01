@@ -1,4 +1,5 @@
 # :bookmark_tabs: [직사각형 별찍기][title]
+출처: https://programmers.co.kr/learn/courses/30/lessons/12969
 
 ## :question: Problem
 이 문제에는 표준 입력으로 두 개의 정수 n과 m이 주어집니다.

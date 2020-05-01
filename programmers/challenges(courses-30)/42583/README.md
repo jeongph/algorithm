@@ -1,4 +1,5 @@
 # :bookmark_tabs: [다리를 지나는 트럭][title]
+출처: https://programmers.co.kr/learn/courses/30/lessons/42583
 
 ## :question: Problem(문제)
 트럭 여러 대가 강을 가로지르는 일 차선 다리를 정해진 순으로 건너려 합니다. 모든 트럭이 다리를 건너려면 최소 몇 초가 걸리는지 알아내야 합니다. 트럭은 1초에 1만큼 움직이며, 다리 길이는 bridge_length이고 다리는 무게 weight까지 견딥니다.

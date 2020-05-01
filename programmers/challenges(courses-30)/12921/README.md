@@ -1,4 +1,5 @@
 # :bookmark_tabs: [소수 찾기][title]
+출처: https://programmers.co.kr/learn/courses/30/lessons/12921?language=java
 
 ## :question: Problem
 1부터 입력받은 숫자 n 사이에 있는 소수의 개수를 반환하는 함수, solution을 만들어 보세요.

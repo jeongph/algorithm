@@ -1,4 +1,5 @@
 # :bookmark_tabs: [자릿수 더하기][title]
+출처: https://programmers.co.kr/learn/courses/30/lessons/12931?language=java
 
 ## :question: Problem
 자연수 N이 주어지면, N의 각 자릿수의 합을 구해서 return 하는 solution 함수를 만들어 주세요.
