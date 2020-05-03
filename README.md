@@ -76,12 +76,6 @@ study-algorithm
 </details>
 
 <details>
-<summary>HackerRank</summary>
-
-- `-`
-</details>
-
-<details>
 <summary>Programmers</summary>
 
 - [x] [12901 : 2016년](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12901)
