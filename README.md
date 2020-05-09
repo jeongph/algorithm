@@ -95,6 +95,7 @@ study-algorithm
 - [x] [12931 : 자릿수 더하기](./programmers/challenges(courses-30)/12931)
 - [x] [12937 : 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
 - [x] [12944 : 평균 구하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12944)
+- [x] [12947 : 하샤드 수](./programmers/challenges(courses-30)/12947)
 - [x] [12954 : x만큼 간격이 있는 n개의 숫자](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12954)
 - [x] [12969 : 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
 - [x] [42576 : 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
