@@ -1,8 +1,12 @@
-# :bookmark_tabs: [Title_here][title]
+# [Title_here][title]
+출처: 
+
+[title]: 
 
 ## :question: Problem
 
-## :white_check_mark: Submit
+
+## :exclamation: Submit
 ### Solved code
 (Important part only)
 ``` java
@@ -10,8 +14,7 @@
 ### Commentary
 
 ### Discussion
+- [ ] -
 
 ### References
 (If there is any reference)
-
-[title]: 

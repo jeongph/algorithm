@@ -45,34 +45,34 @@ study-algorithm
 <details>
 <summary>Baekjoon Online Judge</summary>
 
-- [x] [01110 : 더하기 사이클](https://github.com/bin-e/algorithm/tree/master/baekjoon/01110)
-- [x] [01152 : 단어의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/01152)
-- [x] [01157 : 단어 공부 (O)](https://github.com/bin-e/algorithm/tree/master/baekjoon/01157)
-- [x] [01546 : 평균](https://github.com/bin-e/algorithm/tree/master/baekjoon/01546)
-- [x] [02438 : 별 찍기 - 1](https://github.com/bin-e/algorithm/tree/master/baekjoon/02438)
-- [x] [02439 : 별 찍기 - 2](https://github.com/bin-e/algorithm/tree/master/baekjoon/02439)
-- [x] [02557 : Hello World](https://github.com/bin-e/algorithm/tree/master/baekjoon/02557)
-- [x] [02562 : 최댓값](https://github.com/bin-e/algorithm/tree/master/baekjoon/02562)
-- [x] [02577 : 숫자의 개수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02577)
-- [x] [02675 : 문자열 반복](https://github.com/bin-e/algorithm/tree/master/baekjoon/02675)
-- [x] [02869 : 달팽이는 올라가고 싶다 (O)](https://github.com/bin-e/algorithm/tree/master/baekjoon/02869)
-- [x] [02908 : 상수](https://github.com/bin-e/algorithm/tree/master/baekjoon/02908)
-- [x] [02920 : 음계](https://github.com/bin-e/algorithm/tree/master/baekjoon/02920)
-- [x] [03052 : 나머지](https://github.com/bin-e/algorithm/tree/master/baekjoon/03052)
-- [x] [04153 : 직각삼각형](https://github.com/bin-e/algorithm/tree/master/baekjoon/04153)
-- [x] [04344 : 평균은 넘겠지](https://github.com/bin-e/algorithm/tree/master/baekjoon/04344)
-- [x] [07287 : 등록](https://github.com/bin-e/algorithm/tree/master/baekjoon/07287)
-- [x] [08958 : OX퀴즈](https://github.com/bin-e/algorithm/tree/master/baekjoon/08958)
-- [x] [10171 : 고양이](https://github.com/bin-e/algorithm/tree/master/baekjoon/10171)
-- [x] [10172 : 개](https://github.com/bin-e/algorithm/tree/master/baekjoon/10172)
-- [x] [10718 : We love kriii](https://github.com/bin-e/algorithm/tree/master/baekjoon/10718)
-- [x] [10809 : 알파벳 찾기](https://github.com/bin-e/algorithm/tree/master/baekjoon/10809)
-- [x] [10818 : 최소, 최대](https://github.com/bin-e/algorithm/tree/master/baekjoon/10818)
-- [x] [10871 : X보다 작은 수](https://github.com/bin-e/algorithm/tree/master/baekjoon/10871)
-- [x] [10951 : A+B - 4](https://github.com/bin-e/algorithm/tree/master/baekjoon/10951)
-- [x] [10952 : A+B - 5](https://github.com/bin-e/algorithm/tree/master/baekjoon/10952)
-- [x] [11654 : 아스키 코드](https://github.com/bin-e/algorithm/tree/master/baekjoon/11654)
-- [x] [11720 : 숫자의 합](https://github.com/bin-e/algorithm/tree/master/baekjoon/11720)
+- [x] [01110 : 더하기 사이클](./baekjoon/01110)
+- [x] [01152 : 단어의 개수](./baekjoon/01152)
+- [x] [01157 : 단어 공부 (O)](./baekjoon/01157)
+- [x] [01546 : 평균](./baekjoon/01546)
+- [x] [02438 : 별 찍기 - 1](./baekjoon/02438)
+- [x] [02439 : 별 찍기 - 2](./baekjoon/02439)
+- [x] [02557 : Hello World](./baekjoon/02557)
+- [x] [02562 : 최댓값](./baekjoon/02562)
+- [x] [02577 : 숫자의 개수](./baekjoon/02577)
+- [x] [02675 : 문자열 반복](./baekjoon/02675)
+- [x] [02869 : 달팽이는 올라가고 싶다 (O)](./baekjoon/02869)
+- [x] [02908 : 상수](./baekjoon/02908)
+- [x] [02920 : 음계](./baekjoon/02920)
+- [x] [03052 : 나머지](./baekjoon/03052)
+- [x] [04153 : 직각삼각형](./baekjoon/04153)
+- [x] [04344 : 평균은 넘겠지](./baekjoon/04344)
+- [x] [07287 : 등록](./baekjoon/07287)
+- [x] [08958 : OX퀴즈](./baekjoon/08958)
+- [x] [10171 : 고양이](./baekjoon/10171)
+- [x] [10172 : 개](./baekjoon/10172)
+- [x] [10718 : We love kriii](./baekjoon/10718)
+- [x] [10809 : 알파벳 찾기](./baekjoon/10809)
+- [x] [10818 : 최소, 최대](./baekjoon/10818)
+- [x] [10871 : X보다 작은 수](./baekjoon/10871)
+- [x] [10951 : A+B - 4](./baekjoon/10951)
+- [x] [10952 : A+B - 5](./baekjoon/10952)
+- [x] [11654 : 아스키 코드](./baekjoon/11654)
+- [x] [11720 : 숫자의 합](./baekjoon/11720)
 </details>
 
 <details>
@@ -105,6 +105,6 @@ study-algorithm
 - [x] [60057 : [2020카카오공채] 문자열 압축](./programmers/challenges(courses-30)/60057)
 </details>
 
-[/Baekjoon]: https://github.com/bin-e/algorithm/tree/master/baekjoon
-[/Programmers]: https://github.com/bin-e/algorithm/tree/master/programmers
-[/HackerRank]: https://github.com/bin-e/algorithm/tree/master/hackerrank
+[/Baekjoon]: ./baekjoon
+[/Programmers]: ./programmers
+[/HackerRank]: ./hackerrank
