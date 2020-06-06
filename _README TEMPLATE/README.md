@@ -1,24 +1,26 @@
+ Languages: [한국어](README.md) | [English](README.en.md)
+
 # [Title_here][title]
 출처: 
 
 [title]: 
 
-## :question: Problem
-### :information_source: Function description
+## :question: 문제
+### :information_source: 함수 설명
 
-### :ballot_box_with_check: Constraints
+### :ballot_box_with_check: 제한 사항
 
-### :repeat: Input/Output example
+### :repeat: 입출력 예
 
-## :exclamation: Submit
-### Solved code
-(Important part only)
+## :exclamation: 정답
+### 풀이 코드
+(중요 부분만 첨부)
 ``` java
 ```
-### Commentary
+### 설명
 
-### Discussion
+### 논의
 - [ ] -
 
-### References
+### 참고 자료
 (If there is any reference)
