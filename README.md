@@ -48,6 +48,7 @@ study-algorithm
 <summary>HackerRank</summary>
 
 - [x] []()
+</details>
 
 <details>
 <summary>Baekjoon Online Judge</summary>
