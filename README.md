@@ -67,6 +67,7 @@ study-algorithm
 - [x] [12928 : 약수의 합](./programmers/challenges(courses-30)/12928)
 - [x] [12930 : 이상한 문자 만들기](./programmers/challenges(courses-30)/12930)
 - [x] [12931 : 자릿수 더하기](./programmers/challenges(courses-30)/12931)
+- [x] [12932 : 자연수 뒤집어 배열로 만들기](./programmers/challenges(courses-30)/12932)
 - [x] [12937 : 짝수와 홀수](./programmers/challenges(courses-30)/12937)
 - [x] [12944 : 평균 구하기](./programmers/challenges(courses-30)/12944)
 - [x] [12947 : 하샤드 수](./programmers/challenges(courses-30)/12947)

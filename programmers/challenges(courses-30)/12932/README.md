@@ -1,6 +1,6 @@
  Languages: [한국어](README.md) | [English](README.en.md)
 
-# [Title_here][title]
+# [자연수 뒤집어 배열로 만들기][title]
 출처: https://programmers.co.kr/learn/courses/30/lessons/12932?language=java
 
 [title]: https://programmers.co.kr/learn/courses/30/lessons/12932?language=java
