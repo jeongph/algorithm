@@ -1,16 +1,14 @@
- Languages: [한국어](README.md) | [English](README.en.md)
+Languages: [한국어](README.md) | [English](README.en.md)
 
-# [Title_here][title]
-출처: 
-
-[title]: 
+# Title_here
+Source: 
 
 ## :question: Problem
-### :information_source: Function description
+### Function description
 
-### :ballot_box_with_check: Constraints
+### Constraints
 
-### :repeat: Input/Output example
+### Input/Output example
 
 ## :exclamation: Submit
 ### Solved code
@@ -20,7 +18,6 @@
 ### Commentary
 
 ### Discussion
-- [ ] -
+- [ ] x
 
 ### References
-(If there is any reference)
