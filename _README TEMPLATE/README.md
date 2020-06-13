@@ -1,23 +1,25 @@
-Languages: [한국어](README.md) | [English](README.en.md)
+- Elapsed time: ???
 
 # Title_here
 출처: 
 
-## :question: 문제
-### 함수 설명
+## :question: Problem
+### Function description
 
-### 제한 사항
+### Constraints
 
-### 입출력 예
+### Input/Output example
 
-## :exclamation: 정답
-### 풀이 코드
-(중요 부분만 첨부)
+## :exclamation: Submit
+### Solved code
+(Important part only)
 ``` java
 ```
-### 설명
 
-### 논의
+### Commentary
+
+### Discussion
 - [ ] x
 
-### 참고 자료
+### References
+- x
