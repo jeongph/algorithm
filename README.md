@@ -22,20 +22,24 @@ study-algorithm
 > 코더로 남고싶진 않다. 개발자가 되고싶다.
 
 ## Algorithm test site list
-| List                  | URL                                        | Language | Remarks(Notes) | My own                 |
-| --------------------- | ------------------------------------------ | -------- | -------------- | ---------------------- |
-| Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor      |                | [Link][my_Baekjoon]    |
-| HackerRank            | https://www.hackerrank.com/                | Eng      |                | [Link][my_Programmers] |
-| Programmers           | https://programmers.co.kr/learn/challenges | Kor      |                |                        |
-| --- Unexplored ---    |                                            |          |                |                        |
-| Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |                | [Link][my_Algospot]    |
-| Jung ol               | http://www.jungol.co.kr/                   | Kor      |                |                        |
-| Codility              | https://app.codility.com/programmers/      | Eng      |                |                        |
-| codingdojang          | http://codingdojang.com/                   | Kor      |                |                        |
+|         List          | URL                                        | Language | Remarks(Notes) |         My own         |
+| :-------------------: | ------------------------------------------ | :------: | :------------: | :--------------------: |
+|      Programmers      | https://programmers.co.kr/learn/challenges |   Kor    |                |                        |
+| Baekjoon Online Judge | https://www.acmicpc.net/                   |   Kor    |                |  [Link][my_Baekjoon]   |
+|       LeetCode        | https://leetcode.com/problemset/all/       |   Eng    |                |  [Link][my_Leetcode]   |
+|      HackerRank       | https://www.hackerrank.com/                |   Eng    |                | [Link][my_Programmers] |
+|  --- Unexplored ---   |                                            |          |                |                        |
+|       Algospot        | https://algospot.com/judge/problem/list/   | Kor+Eng  |                |  [Link][my_Algospot]   |
+|       Codility        | https://app.codility.com/programmers/      |   Eng    |                |                        |
+|        Jung ol        | http://www.jungol.co.kr/                   |   Kor    |                |                        |
+|      Goorm-level      | https://level.goorm.io/                    |   Kor    |                |                        |
+|     codingdojang      | http://codingdojang.com/                   |   Kor    |                |                        |
+|      Code Forces      | https://codeforces.com/                    |   Eng    |                |                        |
 
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_Programmers]: https://www.hackerrank.com/dnr1105
 [my_Algospot]: https://algospot.com/user/profile/92448
+[my_Leetcode]: https://leetcode.com/dnr1105/
 
 ## :bulb: Tips
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
@@ -43,16 +47,9 @@ study-algorithm
 ## List of `Solved`
 > checkbox는 풀이 작성 여부, Template 맞춰서 반드시 풀이 작성 할 것
 
-<details>
-<summary>HackerRank</summary>
+<details><summary>Programmers</summary>
 
-- [x] []()
-</details>
-
-<details>
-
-<summary>Programmers</summary>
-
+### Level 1
 - [x] [12901 : 2016년](./programmers/challenges(courses-30)/12901)
 - [x] [12903 : 가운데 글자 가져오기](./programmers/challenges(courses-30)/12903)
 - [x] [12906 : 같은 숫자는 싫어](./programmers/challenges(courses-30)/12906)
@@ -79,10 +76,16 @@ study-algorithm
 - [x] [42748 : K번째수](./programmers/challenges(courses-30)/42748)
 - [x] [42840 : 모의고사](./programmers/challenges(courses-30)/42840)
 - [x] [60057 : [2020카카오공채] 문자열 압축](./programmers/challenges(courses-30)/60057)
+
 </details>
 
-<details>
-<summary>Baekjoon Online Judge</summary>
+<details><summary>HackerRank</summary>
+
+- [x] []()
+
+</details>
+
+<details><summary>Baekjoon Online Judge</summary>
 
 - [x] [01110 : 더하기 사이클](./baekjoon/01110)
 - [x] [01152 : 단어의 개수](./baekjoon/01152)
@@ -112,6 +115,7 @@ study-algorithm
 - [x] [10952 : A+B - 5](./baekjoon/10952)
 - [x] [11654 : 아스키 코드](./baekjoon/11654)
 - [x] [11720 : 숫자의 합](./baekjoon/11720)
+
 </details>
 
 [/Baekjoon]: ./baekjoon
