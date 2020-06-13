@@ -1,10 +1,9 @@
-# [Title_here][title]
-출처: 
+Languages: [한국어](README.md) | [English](README.en.md)
 
-[title]: 
+# Title_here
+Source: 
 
 ## :question: Problem
-
 
 ## :exclamation: Submit
 ### Solved code
@@ -13,8 +12,4 @@
 ```
 ### Commentary
 
-### Discussion
-- [ ] -
-
 ### References
-(If there is any reference)
