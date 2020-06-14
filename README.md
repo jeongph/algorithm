@@ -22,19 +22,19 @@ study-algorithm
 > 코더로 남고싶진 않다. 개발자가 되고싶다.
 
 ## Algorithm test site list
-|         List          | URL                                        | Language | Remarks(Notes) |         My own         |
-| :-------------------: | ------------------------------------------ | :------: | :------------: | :--------------------: |
-|      Programmers      | https://programmers.co.kr/learn/challenges |   Kor    |                |                        |
-| Baekjoon Online Judge | https://www.acmicpc.net/                   |   Kor    |                |  [Link][my_Baekjoon]   |
-|       LeetCode        | https://leetcode.com/problemset/all/       |   Eng    |                |  [Link][my_Leetcode]   |
-|      HackerRank       | https://www.hackerrank.com/                |   Eng    |                | [Link][my_Programmers] |
-|  --- Unexplored ---   |                                            |          |                |                        |
-|       Algospot        | https://algospot.com/judge/problem/list/   | Kor+Eng  |                |  [Link][my_Algospot]   |
-|       Codility        | https://app.codility.com/programmers/      |   Eng    |                |                        |
-|        Jung ol        | http://www.jungol.co.kr/                   |   Kor    |                |                        |
-|      Goorm-level      | https://level.goorm.io/                    |   Kor    |                |                        |
-|     codingdojang      | http://codingdojang.com/                   |   Kor    |                |                        |
-|      Code Forces      | https://codeforces.com/                    |   Eng    |                |                        |
+|         List          | URL                                                           | Language | Remarks(Notes) |         My own         |
+| :-------------------: | ------------------------------------------------------------- | :------: | :------------: | :--------------------: |
+|      Programmers      | https://programmers.co.kr/learn/challenges?tab=all_challenges |   Kor    |                |                        |
+| Baekjoon Online Judge | https://www.acmicpc.net/                                      |   Kor    |                |  [Link][my_Baekjoon]   |
+|       LeetCode        | https://leetcode.com/problemset/all/                          |   Eng    |                |  [Link][my_Leetcode]   |
+|      HackerRank       | https://www.hackerrank.com/dashboard                          |   Eng    |                | [Link][my_Programmers] |
+|  --- Unexplored ---   |                                                               |          |                |                        |
+|       Algospot        | https://algospot.com/judge/problem/list/                      | Kor+Eng  |                |  [Link][my_Algospot]   |
+|       Codility        | https://app.codility.com/programmers/                         |   Eng    |                |                        |
+|        Jung ol        | http://www.jungol.co.kr/                                      |   Kor    |                |                        |
+|      Goorm-level      | https://level.goorm.io/                                       |   Kor    |                |                        |
+|     codingdojang      | http://codingdojang.com/                                      |   Kor    |                |                        |
+|      Code Forces      | https://codeforces.com/                                       |   Eng    |                |                        |
 
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_Programmers]: https://www.hackerrank.com/dnr1105
@@ -47,37 +47,7 @@ study-algorithm
 ## List of `Solved`
 > checkbox는 풀이 작성 여부, Template 맞춰서 반드시 풀이 작성 할 것
 
-<details><summary>Programmers</summary>
 
-### Level 1
-- [x] [12901 : 2016년](./programmers/challenges(courses-30)/12901)
-- [x] [12903 : 가운데 글자 가져오기](./programmers/challenges(courses-30)/12903)
-- [x] [12906 : 같은 숫자는 싫어](./programmers/challenges(courses-30)/12906)
-- [x] [12910 : 나누어 떨어지는 숫자 배열](./programmers/challenges(courses-30)/12910)
-- [x] [12912 : 두 정수 사이의 합](./programmers/challenges(courses-30)/12912)
-- [x] [12915 : 문자열 내 마음대로 정렬하기](./programmers/challenges(courses-30)/12915)
-- [x] [12916 : 문자열 내 p와 y의 개수](./programmers/challenges(courses-30)/12916)
-- [x] [12918 : 문자열 다루기 기본](./programmers/challenges(courses-30)/12918)
-- [x] [12919 : 서울에서 김서방 찾기](./programmers/challenges(courses-30)/12919)
-- [x] [12921 : 소수 찾기](./programmers/challenges(courses-30)/12921)
-- [x] [12922 : 수박수박수박수박수박수?](./programmers/challenges(courses-30)/12922)
-- [x] [12925 : 문자열을 정수로 바꾸기](./programmers/challenges(courses-30)/12925)
-- [x] [12928 : 약수의 합](./programmers/challenges(courses-30)/12928)
-- [x] [12930 : 이상한 문자 만들기](./programmers/challenges(courses-30)/12930)
-- [x] [12931 : 자릿수 더하기](./programmers/challenges(courses-30)/12931)
-- [x] [12932 : 자연수 뒤집어 배열로 만들기](./programmers/challenges(courses-30)/12932)
-- [x] [12937 : 짝수와 홀수](./programmers/challenges(courses-30)/12937)
-- [x] [12944 : 평균 구하기](./programmers/challenges(courses-30)/12944)
-- [x] [12947 : 하샤드 수](./programmers/challenges(courses-30)/12947)
-- [x] [12954 : x만큼 간격이 있는 n개의 숫자](./programmers/challenges(courses-30)/12954)
-- [x] [12969 : 직사각형 별찍기](./programmers/challenges(courses-30)/12969)
-- [x] [42576 : 완주하지 못한 선수](./programmers/challenges(courses-30)/42576)
-- [ ] [42583 : 다리를 지나는 트럭](./programmers/challenges(courses-30)/42583)
-- [x] [42748 : K번째수](./programmers/challenges(courses-30)/42748)
-- [x] [42840 : 모의고사](./programmers/challenges(courses-30)/42840)
-- [x] [60057 : [2020카카오공채] 문자열 압축](./programmers/challenges(courses-30)/60057)
-
-</details>
 
 <details><summary>HackerRank</summary>
 
