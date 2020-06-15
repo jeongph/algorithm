@@ -1,51 +1,48 @@
-# :bookmark_tabs: [2016년][title]
-출처: https://programmers.co.kr/learn/courses/30/lessons/12901
+- Elapsed time: ???
+
+# 2016년
+출처: https://programmers.co.kr/learn/courses/30/lessons/12901?language=java
 
 ## :question: Problem
-2016년 1월 1일은 금요일입니다. 2016년 a월 b일은 무슨 요일일까요? 두 수 a ,b를 입력받아 2016년 a월 b일이 무슨 요일인지 리턴하는 함수, solution을 완성하세요. 요일의 이름은 일요일부터 토요일까지 각각 `SUN,MON,TUE,WED,THU,FRI,SAT`입니다. 예를 들어 a=5, b=24라면 5월 24일은 화요일이므로 문자열 TUE를 반환하세요.
+2016년 1월 1일은 금요일입니다. 2016년 a월 b일은 무슨 요일일까요? 두 수 a ,b를 입력받아 2016년 a월 b일이 무슨 요일인지 리턴하는 함수, solution을 완성하세요. 요일의 이름은 일요일부터 토요일까지 각각 `SUN,MON,TUE,WED,THU,FRI,SAT` 입니다. 예를 들어 a=5, b=24라면 5월 24일은 화요일이므로 문자열 TUE를 반환하세요.
 
-### :information_source: Function description
+### Function description
+-
+
+### Constraints
 - a : 2016년 a월의 정수 a
 - b : 2016년 a월 b일의 정수 b
 - __return__ : 2016년 a월 b일이 무슨 요일인지 리턴
 
-### :warning: Constraints
-- 2016년은 윤년입니다.
-- 2016년 a월 b일은 실제로 있는 날입니다. (13월 26일이나 2월 45일같은 날짜는 주어지지 않습니다)
-
-### :arrow_right: Input/Output format example
+### Input/Output example
 | a   | b   | result |
 | --- | --- | ------ |
 | 5   | 24  | TUE    |
 
-## :white_check_mark: Submit
+## :exclamation: Submit
 ### Solved code
 (Important part only)
 ``` java
-import java.util.ArrayList;
-import java.util.Arrays;
+public static String week[] = { "THU", "FRI", "SAT", "SUN", "MON", "TUE", "WED" };
+public static int month[] = { 0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
-class Solution
+public String solution( int a, int b )
 {
-	public static String week[] = {"THU","FRI","SAT","SUN","MON","TUE","WED"};
-	public static int month[] = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+    String answer = "";
 
-	public String solution(int a, int b) {
-		String answer = "";
+    int c_day = 0;
+    for( int i = 0; i < a; i++ )
+    {
+        c_day += month[i];
+    }
+    c_day += b;
 
-		int c_day = 0;
-		for(int i = 0; i < a; i++ )
-		{
-			c_day += month[i];
-		}
-		c_day += b;
+    answer = week[(c_day % week.length)];
 
-		answer = week[(c_day % week.length)];
-
-		return answer;
-	}
+    return answer;
 }
 ```
+
 ### Commentary
 - 처음 떠오른 생각은 "어짜피 한 주는 7일로 고정이니, 7로 나누어서 나머지에 해당하는 배열의 위치만 리턴해서 출력하면 되겠다.
 - 이대로 구현하기 위해 일단 주/월 배열을 생성
@@ -60,6 +57,4 @@ class Solution
 - [ ] (스위치문 200줄로 푸신분들 열정 칭찬해..)
 
 ### References
-(If there is any reference)
-
-[title]: https://programmers.co.kr/learn/courses/30/lessons/12901
+- x
