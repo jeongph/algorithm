@@ -22,19 +22,19 @@ study-algorithm
 > 코더로 남고싶진 않다. 개발자가 되고싶다.
 
 ## Algorithm test site list
-|         List          | URL                                                           | Language | Remarks(Notes) |         My own         |
-| :-------------------: | ------------------------------------------------------------- | :------: | :------------: | :--------------------: |
-|      Programmers      | https://programmers.co.kr/learn/challenges?tab=all_challenges |   Kor    |                |                        |
-| Baekjoon Online Judge | https://www.acmicpc.net/                                      |   Kor    |                |  [Link][my_Baekjoon]   |
-|       LeetCode        | https://leetcode.com/problemset/all/                          |   Eng    |                |  [Link][my_Leetcode]   |
-|      HackerRank       | https://www.hackerrank.com/dashboard                          |   Eng    |                | [Link][my_Programmers] |
-|  --- Unexplored ---   |                                                               |          |                |                        |
-|       Algospot        | https://algospot.com/judge/problem/list/                      | Kor+Eng  |                |  [Link][my_Algospot]   |
-|       Codility        | https://app.codility.com/programmers/                         |   Eng    |                |                        |
-|        Jung ol        | http://www.jungol.co.kr/                                      |   Kor    |                |                        |
-|      Goorm-level      | https://level.goorm.io/                                       |   Kor    |                |                        |
-|     codingdojang      | http://codingdojang.com/                                      |   Kor    |                |                        |
-|      Code Forces      | https://codeforces.com/                                       |   Eng    |                |                        |
+|         List          | URL                                        | Language | Remarks |         My own         |
+| :-------------------: | ------------------------------------------ | :------: | :-----: | :--------------------: |
+|      Programmers      | https://programmers.co.kr/learn/challenges |   Kor    |         |                        |
+| Baekjoon Online Judge | https://www.acmicpc.net/                   |   Kor    |         |  [Link][my_Baekjoon]   |
+|       LeetCode        | https://leetcode.com/problemset/all/       |   Eng    |         |  [Link][my_Leetcode]   |
+|      HackerRank       | https://www.hackerrank.com/dashboard       |   Eng    |         | [Link][my_Programmers] |
+|  --- Unexplored ---   |                                            |          |         |                        |
+|       Algospot        | https://algospot.com/judge/problem/list/   | Kor+Eng  |         |  [Link][my_Algospot]   |
+|       Codility        | https://app.codility.com/programmers/      |   Eng    |         |                        |
+|        Jung ol        | http://www.jungol.co.kr/                   |   Kor    |         |                        |
+|      Goorm-level      | https://level.goorm.io/                    |   Kor    |         |                        |
+|     codingdojang      | http://codingdojang.com/                   |   Kor    |         |                        |
+|      Code Forces      | https://codeforces.com/                    |   Eng    |         |                        |
 
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_Programmers]: https://www.hackerrank.com/dnr1105
