@@ -1,4 +1,6 @@
-# :bookmark_tabs: [[2020카카오공채] 문자열 압축][title]
+- Elapsed time: ???
+
+# 문자열 압축
 출처: https://programmers.co.kr/learn/courses/30/lessons/60057?language=java
 
 ## :question: Problem
@@ -11,15 +13,15 @@
 
 압축할 문자열 s가 매개변수로 주어질 때, 위에 설명한 방법으로 1개 이상 단위로 문자열을 잘라 압축하여 표현한 문자열 중 가장 짧은 것의 길이를 return 하도록 solution 함수를 완성해주세요.
 
-### :information_source: Function description
-- s : 압축할 문자열 s
+### Function description
+- `s` : 압축할 문자열 s
 - __return__ : 1개 이상 단위로 문자열을 잘라 압축하여 표현한 문자열 중 가장 짧은 것의 길이
 
-### :warning: Constraints
+### Constraints
 - s의 길이는 1 이상 1,000 이하입니다.
 - s는 알파벳 소문자로만 이루어져 있습니다.
 
-### :arrow_right: Input/Output example
+### Input/Output example
 | s                          | result |
 | -------------------------- | ------ |
 | "aabbaccc"                 | 7      |
@@ -28,7 +30,7 @@
 | "abcabcabcabcdededededede" | 14     |
 | "xababcdcdababcdcd"        | 17     |
 
-## :white_check_mark: Submit
+## :exclamation: Submit
 ### Solved code
 (Important part only)
 ``` java
@@ -71,7 +73,7 @@ public int solution( String s )
                 same_counter = 0;
             }
 
-            if(i == splitter_size)
+            if( i == splitter_size )
             {
                 ans_str += isSame ? "" + (same_counter + 1) + pre_temp : "" + temp;
             }
@@ -86,6 +88,7 @@ public int solution( String s )
     return answer;
 }
 ```
+
 ### Commentary
 - (split으로 뻘짓 하다가, 특정 문자열로 자르는것이 아닌것을 판단.)
 - 생각 자체는 단순했다, 일단 `n`으로 잘라서 최소의 길이를 판단하는건데 (이것도 다중분할인줄 알고 고생함)
@@ -100,6 +103,4 @@ public int solution( String s )
 - [ ] 이건 똑똑한분들의 풀이를 좀 확인해서 효율적인 코드가 있는지 봐야할 듯
 
 ### References
-(If there is any reference)
-
-[title]: https://programmers.co.kr/learn/courses/30/lessons/60057?language=java
+- (If there is any reference)

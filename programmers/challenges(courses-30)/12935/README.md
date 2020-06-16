@@ -1,7 +1,7 @@
 - Elapsed time: ???
 
-# 정수 내림차순으로 배치하기
-출처: https://programmers.co.kr/learn/courses/30/lessons/12933?language=java
+# 제일 작은 수 제거하기
+출처: https://programmers.co.kr/learn/courses/30/lessons/12935?language=java
 
 ## :question: Problem
 

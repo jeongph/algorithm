@@ -1,26 +1,28 @@
-# :bookmark_tabs: [x만큼 간격이 있는 n개의 숫자][title]
+- Elapsed time: ???
+
+# x만큼 간격이 있는 n개의 숫자
 출처: https://programmers.co.kr/learn/courses/30/lessons/12954?language=java
 
 ## :question: Problem
 함수 solution은 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 리턴해야 합니다. 다음 제한 조건을 보고, 조건을 만족하는 함수, solution을 완성해주세요.
 
-### :information_source: Function description
-- x : 정수 x
-- n : 자연수 n
+### Function description
+- `x` : 정수 x
+- `n` : 자연수 n
 - __return__ : x씩 증가하는 숫자를 n개 지니는 리스트
 
-### :warning: Constraints
-- x는 -10000000 이상, 10,000,000 이하인 정수입니다.
-- n은 1000 이하인 자연수입니다.
+### Constraints
+- `x`는 -10000000 이상, 10,000,000 이하인 정수입니다.
+- `n`은 1000 이하인 자연수입니다.
 
-### :arrow_right: Input/Output example
+### Input/Output example
 | x   | n   | answer       |
 | --- | --- | ------------ |
 | 2   | 5   | [2,4,6,8,10] |
 | 4   | 3   | [4,8,12]     |
 | -4  | 2   | [-4, -8]     |
 
-## :white_check_mark: Submit
+## :exclamation: Submit
 ### Solved code
 (Important part only)
 ``` java
@@ -39,6 +41,7 @@ public long[] solution( int x, int n )
     return answer;
 }
 ```
+
 ### Commentary
 - 제일 먼저 든 생각은 ArrayList로 만들고 add하고, 다시 array로 리턴하는 것
 - 근데 길이 자체가 `n`으로 정해져있으니까 더 많은 리소스를 사용하지 않기로 함.
@@ -51,6 +54,4 @@ public long[] solution( int x, int n )
 - [x] Commentary 쓰면서 생각난건데 변수를 따로 쓸꺼면 합계 변수 `added`나 `adder` 둘 중 한개만 사용해도 됐다.
 
 ### References
-(If there is any reference)
-
-[title]: https://programmers.co.kr/learn/courses/30/lessons/12954?language=java
+- (If there is any reference)

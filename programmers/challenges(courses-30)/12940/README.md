@@ -1,7 +1,7 @@
 - Elapsed time: ???
 
-# 정수 내림차순으로 배치하기
-출처: https://programmers.co.kr/learn/courses/30/lessons/12933?language=java
+# 최대공약수와 최소공배수
+출처: https://programmers.co.kr/learn/courses/30/lessons/12940?language=java
 
 ## :question: Problem
 

@@ -1,4 +1,6 @@
-# :bookmark_tabs: [소수 찾기][title]
+- Elapsed time: ???
+
+# 소수 찾기
 출처: https://programmers.co.kr/learn/courses/30/lessons/12921?language=java
 
 ## :question: Problem
@@ -6,16 +8,21 @@
 
 소수는 1과 자기 자신으로만 나누어지는 수를 의미합니다.
 (1은 소수가 아닙니다.)
-### :information_source: Function description
+
+### Function description
 - n : 정수 n
 - __return__ : `1`부터 `n`까지의 소수 개수
 
-### :warning: Constraints
+### Constraints
 - n은 2이상 1000000이하의 자연수입니다.
 
-### :arrow_right: Input/Output example
+### Input/Output example
+| n   | result |
+| --- | ------ |
+| 10  | 4      |
+| 5   | 3      |
 
-## :white_check_mark: Submit
+## :exclamation: Submit
 ### Solved code
 (Important part only)
 ``` java
@@ -23,11 +30,11 @@ public int solution( int n )
 {
     int answer = 0;
 
-    for(int i = 2; i <= n; i++ )
+    for( int i = 2; i <= n; i++ )
     {
         boolean isPrime = true;
 
-        for(int j = 2; j <= Math.sqrt(i); j++ )
+        for( int j = 2; j <= Math.sqrt( i ); j++ )
         {
             if( i % j == 0 )
             {
@@ -41,6 +48,7 @@ public int solution( int n )
     return answer;
 }
 ```
+
 ### Commentary
 - 처음에는 효율성같은게 있는지 모르고 `1차 for문`에서 `1`에서 `n`까지 반복
 - `2차 for문`에서 `2`에서 `i`까지 반복해서 본인 이외에 나누어지는 숫자가 있다면 소수가 아니라 하고, 반복문을 빠져나가게 풀었는데 효율성에서 실패
@@ -54,5 +62,3 @@ public int solution( int n )
 
 ### References
 - [소수 (수론)](https://ko.wikipedia.org/wiki/%EC%86%8C%EC%88%98_(%EC%88%98%EB%A1%A0))
-
-[title]: https://programmers.co.kr/learn/courses/30/lessons/12921?language=java

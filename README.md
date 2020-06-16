@@ -45,46 +45,49 @@ study-algorithm
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
 
 ## List of `Solved`
-> checkbox는 풀이 작성 여부, Template 맞춰서 반드시 풀이 작성 할 것
+> checkbox는 풀이 여부 (문제 풀이 완료 시 Template 맞춰서 반드시 풀이 작성 할 것.)
 
+<details><summary>Programmers</summary>
 
+### Level 2
+- [ ] [42583 - 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+- [x] [60057 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
 
-<details><summary>HackerRank</summary>
-
-- [x] []()
-
-</details>
-
-<details><summary>Baekjoon Online Judge</summary>
-
-- [x] [01110 : 더하기 사이클](./baekjoon/01110)
-- [x] [01152 : 단어의 개수](./baekjoon/01152)
-- [x] [01157 : 단어 공부 (O)](./baekjoon/01157)
-- [x] [01546 : 평균](./baekjoon/01546)
-- [x] [02438 : 별 찍기 - 1](./baekjoon/02438)
-- [x] [02439 : 별 찍기 - 2](./baekjoon/02439)
-- [x] [02557 : Hello World](./baekjoon/02557)
-- [x] [02562 : 최댓값](./baekjoon/02562)
-- [x] [02577 : 숫자의 개수](./baekjoon/02577)
-- [x] [02675 : 문자열 반복](./baekjoon/02675)
-- [x] [02869 : 달팽이는 올라가고 싶다 (O)](./baekjoon/02869)
-- [x] [02908 : 상수](./baekjoon/02908)
-- [x] [02920 : 음계](./baekjoon/02920)
-- [x] [03052 : 나머지](./baekjoon/03052)
-- [x] [04153 : 직각삼각형](./baekjoon/04153)
-- [x] [04344 : 평균은 넘겠지](./baekjoon/04344)
-- [x] [07287 : 등록](./baekjoon/07287)
-- [x] [08958 : OX퀴즈](./baekjoon/08958)
-- [x] [10171 : 고양이](./baekjoon/10171)
-- [x] [10172 : 개](./baekjoon/10172)
-- [x] [10718 : We love kriii](./baekjoon/10718)
-- [x] [10809 : 알파벳 찾기](./baekjoon/10809)
-- [x] [10818 : 최소, 최대](./baekjoon/10818)
-- [x] [10871 : X보다 작은 수](./baekjoon/10871)
-- [x] [10951 : A+B - 4](./baekjoon/10951)
-- [x] [10952 : A+B - 5](./baekjoon/10952)
-- [x] [11654 : 아스키 코드](./baekjoon/11654)
-- [x] [11720 : 숫자의 합](./baekjoon/11720)
+### Level 1
+- [x] [12901 - 2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- [x] [12903 - 가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [x] [12906 - 같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+- [x] [12910 - 나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
+- [x] [12912 - 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+- [x] [12915 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
+- [x] [12916 - 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
+- [ ] [12917 - 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+- [x] [12918 - 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
+- [x] [12919 - 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+- [x] [12921 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
+- [x] [12922 - 수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
+- [x] [12925 - 문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
+- [ ] [12926 - 시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
+- [x] [12928 - 약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
+- [x] [12930 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+- [x] [12931 - 자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
+- [x] [12932 - 자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
+- [ ] [12933 - 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
+- [ ] [12934 - 정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)
+- [ ] [12935 - 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
+- [x] [12937 - 짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
+- [ ] [12940 - 최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
+- [ ] [12943 - 콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
+- [x] [12944 - 평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
+- [x] [12947 - 하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [ ] [12948 - 핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+- [ ] [12950 - 행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+- [x] [12954 - x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+- [x] [12969 - 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+- [x] [42576 - 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- [x] [42748 - K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- [x] [42840 - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [ ] [42862 - 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 </details>
 

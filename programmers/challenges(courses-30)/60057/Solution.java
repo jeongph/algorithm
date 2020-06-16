@@ -13,13 +13,6 @@ class Solution
 			ArrayList<String> al = new ArrayList<String>();
 			String ans_str = "";
 
-			/*
-			if (len % splitter != 0) {
-				++splitter;
-				continue;
-			}
-			 */
-
 			for( int i = 0; i < len; i += splitter )
 			{
 				String temp;
@@ -48,7 +41,7 @@ class Solution
 					same_counter = 0;
 				}
 
-				if(i == splitter_size)
+				if( i == splitter_size )
 				{
 					ans_str += isSame ? "" + (same_counter + 1) + pre_temp : "" + temp;
 				}
@@ -102,7 +95,7 @@ class Solution
 					same_counter = 0;
 				}
 
-				if(i == splitter_size)
+				if( i == splitter_size )
 				{
 					ans_str += isSame ? "" + (same_counter + 1) + pre_temp : "" + temp;
 				}
