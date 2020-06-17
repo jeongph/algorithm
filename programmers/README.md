@@ -1,8 +1,6 @@
 # Solved the problem of `Programmers`
 > 프로그래머스 문제 목록
 
-<details><summary>Programmers</summary>
-
 ### Level 2
 - [ ] [42583 - 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 - [x] [60057 - 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -42,5 +40,3 @@
 - [x] [42748 - K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [x] [42840 - 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [ ] [42862 - 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
-
-</details>
