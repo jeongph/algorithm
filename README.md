@@ -93,7 +93,9 @@ study-algorithm
 
 <details><summary>Baekjoon</summary>
 
+</details>
 
+<details><summary>HackerRank</summary>
 
 </details>
 
