@@ -1,6 +1,9 @@
 # Solved the problem of `Programmers`
 > 프로그래머스 문제 목록
 
+## Skill check
+
+## All problems
 ### Level 2
 - [ ] [42583 - 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
 - [x] [60057 - 문자열 압축](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/60057)
