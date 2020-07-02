@@ -61,7 +61,7 @@ study-algorithm
 - [x] [12912 - 두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 - [x] [12915 - 문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 - [x] [12916 - 문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
-- [ ] [12917 - 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+- [x] [12917 - 문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
 - [x] [12918 - 문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
 - [x] [12919 - 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
 - [x] [12921 - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
