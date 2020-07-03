@@ -22,7 +22,7 @@
 - [x] [12921 - 소수 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12921)
 - [x] [12922 - 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
 - [x] [12925 - 문자열을 정수로 바꾸기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12925)
-- [ ] [12926 - 시저 암호](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12926)
+- [x] [12926 - 시저 암호](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12926)
 - [x] [12928 - 약수의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
 - [x] [12930 - 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12931 - 자릿수 더하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12931)
