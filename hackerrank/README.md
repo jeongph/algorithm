@@ -5,7 +5,7 @@
 - [x] []()
 
 ## algorithms
-- [x] []()
+- [x] [Solve Me First](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/solve-me-first)
 
 ## java
 - [x] []()
