@@ -5,21 +5,12 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    /*
-     * Complete the simpleArraySum function below.
-     */
     static int simpleArraySum(int[] ar) {
-        /*
-         * Write your code here.
-         */
+        int sum = 0;
 
-         int sum = 0;
-
-         for(int i = 0; i < ar.length; i++)
-         {
+        for (int i = 0; i < ar.length; i++) {
             sum += ar[i];
-         }
+        }
 
         return sum;
     }

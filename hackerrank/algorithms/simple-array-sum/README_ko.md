@@ -5,25 +5,25 @@ Language: [English](./README.md) / [한글](./README_ko.md)
 Original: https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 ## :question: Problem
-Given an array of integers, find the sum of its elements.
+정수 배열이 주어질 때, 이 구성원의 합을 구하여라
 
-For example, if the array `ar=[1,2,3]`, `1+2+3=6`, so return `6`.
+예를 들어, 배열이 `ar=[1,2,3]`, `1+2+3=6`, 따라서 `6`을 리턴.
 
 ### Function Description
-Complete the simpleArraySum function in the editor below. It must return the sum of the array elements as an integer.
+하단 에디터의 `simpleArraySum` 함수를 완성하라. 그건 반드시 정수 배열의 요소들의 합을 리턴해야 한다.
 
-simpleArraySum has the following parameter(s):
-- ar: an array of integers
+`simpleArraySum` 는 다음과 같은 파라메타를 가짐:
+- `ar`: 정수 배열
 
 ### Input Format
-The first line contains an integer, `n`, denoting the size of the array.
-The second line contains `n` space-separated integers representing the array's elements
+첫번째 줄은 배열의 크기를 나타내는 정수 `n`, 
+두번째 줄 `n`은 스페이스로 구분되어 배열의 요소를 나타낸다.
 
 ### Constraints
 `0<n`, `ar[i] <= 1000`
 
 ### Output Format
-Print the sum of the array's elements as a single integer.
+배열 요소의 합을 단일 정수로 출력하라.
 
 ### Sample Input 0
 ```
@@ -37,7 +37,7 @@ Print the sum of the array's elements as a single integer.
 ```
 
 ### Explanation 0
-We print the sum of the array's elements: `1+2+3+4+10+11=31`.
+우리는 배열 정수의 요소의 합을 출력한다: `1+2+3+4+10+11=31`.
 
 ## :exclamation: Submit
 ### Solved code
@@ -55,7 +55,7 @@ static int simpleArraySum(int[] ar) {
 ```
 
 ### Commentary
-- 그냥 다 더하면 됨
+- (그냥 다 더하면 됨) 풀이 필요 x
 
 ### Discussion
 - [ ] x
