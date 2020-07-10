@@ -49,6 +49,8 @@ study-algorithm
 
 <details><summary>Programmers</summary>
 
+## Skill check
+
 ## All problems
 ### Level 2
 - [ ] [42583 - 다리를 지나는 트럭](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42583)
@@ -68,7 +70,7 @@ study-algorithm
 - [x] [12921 - 소수 찾기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12921)
 - [x] [12922 - 수박수박수박수박수박수?](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12922)
 - [x] [12925 - 문자열을 정수로 바꾸기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12925)
-- [ ] [12926 - 시저 암호](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12926)
+- [x] [12926 - 시저 암호](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12926)
 - [x] [12928 - 약수의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12928)
 - [x] [12930 - 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12931 - 자릿수 더하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12931)
@@ -89,7 +91,6 @@ study-algorithm
 - [x] [42748 - K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
 - [x] [42840 - 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
 - [ ] [42862 - 체육복](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42862)
-
 </details>
 
 <details><summary>Baekjoon</summary>
@@ -142,7 +143,6 @@ study-algorithm
 - [x] [11654 - 아스키 코드](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/11654)
 - [x] [11720 - 숫자의 합](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/11720)
 - [x] [15552 - 빠른 A+B](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/15552)
-
 </details>
 
 <details><summary>HackerRank</summary>
