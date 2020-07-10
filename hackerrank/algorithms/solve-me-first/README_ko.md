@@ -29,7 +29,7 @@ b = 3
 ```
 
 ### Explanation 0
-`2+3=5` 같이 두 정수 `a`와 `b`의 합.
+![$2+3=5$](https://latex.codecogs.com/svg.latex?2+3=5)와 같이 두 정수 ![$a$](https://latex.codecogs.com/svg.latex?a)와 ![$b$](https://latex.codecogs.com/svg.latex?b)의 합.
 
 ## :exclamation: Submit
 ### Solved code

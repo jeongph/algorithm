@@ -21,7 +21,7 @@ Given a and b, determine their respective comparison points.
 ### Example
 a = [1, 2, 3]
 b = [3, 2, 1]
-- For elements *0*, Bob is awarded a point because a[0] .
+- For elements `*0*`, Bob is awarded a point because a[0] .
 - For the equal elements a[1] and b[1], no points are earned.
 - Finally, for elements 2, a[2] > b[2] so Alice receives a point.
 The return array is [1, 1] with Alice's score first and Bob's second.
@@ -58,15 +58,15 @@ The second line contains 3 space-separated integers, b[0], b[1], and b[2], the r
 
 ### Explanation 0
 In this example:
-- $a=(a[0], a[1], a[2]) = (5, 6, 7)$
-- $b=(b[0], b[1], b[2]) = (3, 6, 10)$
+- ![$a=(a[0], a[1], a[2]) = (5, 6, 7)$](https://latex.codecogs.com/svg.latex?a=(a[0],%20a[1],%20a[2])%20=%20(5,%206,%207))
+- ![$b=(b[0], b[1], b[2]) = (3, 6, 10)$](https://latex.codecogs.com/svg.latex?b=(b[0],%20b[1],%20b[2])%20=%20(3,%206,%2010))
 
 Now, let's compare each individual score:
 
-- $a[0] > b[0]$,so Alice receives $1$ point.
-- $a[1] = b[1]$, so nobody receives a point.
-- $a[2] < b[2]$, so Bob receives  point.
-Alice's comparison score is $1$, and Bob's comparison score is $1$. Thus, we return the array $[1, 1]$.
+- ![$a[0] > b[0]$](https://latex.codecogs.com/svg.latex?a[0]%20%3E%20b[0]),so Alice receives ![$1$](https://latex.codecogs.com/svg.latex?1) point.
+- ![$a[1] = b[1]$](https://latex.codecogs.com/svg.latex?a[1]%20=%20b[1]), so nobody receives a point.
+- ![$a[2] < b[2]$](https://latex.codecogs.com/svg.latex?a[2]%20%3C%20b[2]), so Bob receives  point.
+Alice's comparison score is ![$1$](https://latex.codecogs.com/svg.latex?1), and Bob's comparison score is ![$1$](https://latex.codecogs.com/svg.latex?1). Thus, we return the array ![$[1, 1]$](https://latex.codecogs.com/svg.latex?[1,%201]).
 
 ### Sample Input 1
 ```
@@ -80,11 +80,12 @@ Alice's comparison score is $1$, and Bob's comparison score is $1$. Thus, we ret
 ```
 
 ### Explanation 1
-Comparing the $0^{th}$ elements, $17 < 99$ so Bob receives a point.
+Comparing the ![$0^{th}$](https://latex.codecogs.com/svg.latex?0^{th}) elements, ![$17 < 99$](https://latex.codecogs.com/svg.latex?17%20%3C%2099) so Bob receives a point.
 
-Comparing the $1^{st}$ and $2^{nd}$ elements, $28 < 16$ and $30 > 8$ so Alice receives two points.
 
-The return array is $[2, 1]$.
+Comparing the ![$1^{st}$](https://latex.codecogs.com/svg.latex?1^{st}) and ![$2^{nd}$](https://latex.codecogs.com/svg.latex?2^{nd}) elements, ![$28 < 16$](https://latex.codecogs.com/svg.latex?28%20%3C%2016) and ![$30 > 8$](https://latex.codecogs.com/svg.latex?30%20%3E%208) so Alice receives two points.
+
+The return array is ![$[2, 1]$](https://latex.codecogs.com/svg.latex?[2,%201]).
 
 ## :exclamation: Submit
 ### Solved code

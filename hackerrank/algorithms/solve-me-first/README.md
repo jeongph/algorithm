@@ -29,7 +29,7 @@ b = 3
 ```
 
 ### Explanation 0
-The sum of the two integers `a` and `b` is computed as: `2+3=5`.
+The sum of the two integers ![$a$](https://latex.codecogs.com/svg.latex?a) and ![$b$](https://latex.codecogs.com/svg.latex?b) is computed as: ![$2+3=5$](https://latex.codecogs.com/svg.latex?2+3=5).
 
 ## :exclamation: Submit
 ### Solved code
