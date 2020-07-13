@@ -11,6 +11,10 @@
 - [x] [Compare the Triplets](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/compare-the-triplets)
 - [x] [A Very Big Sum](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/a-very-big-sum)
 - [x] [Diagonal Difference](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/diagonal-difference)
+- [x] [Plus Minus](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/plus-minus)
+- [x] [Staircase](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/staircase)
+- [x] [Mini-Max Sum](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/mini-max-sum)
+- [x] [Birthday Cake Candles](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/birthday-cake-candles)
 
 ## java
 - [x] []()
