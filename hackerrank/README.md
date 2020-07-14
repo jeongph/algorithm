@@ -15,6 +15,10 @@
 - [x] [Staircase](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/staircase)
 - [x] [Mini-Max Sum](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/mini-max-sum)
 - [x] [Birthday Cake Candles](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/birthday-cake-candles)
+- [x] [Time Conversion](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/time-conversion)
+
+### Implementation
+- [x] [Grading Students](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/grading)
 
 ## java
 - [x] []()

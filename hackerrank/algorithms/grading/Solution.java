@@ -5,20 +5,13 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    /*
-     * Complete the gradingStudents function below.
-     */
-    static int[] gradingStudents(int[] grades)
-    {
+    static int[] gradingStudents(int[] grades) {
         int len = grades.length;
-        for( int i = 0; i < len; i++ )
-        {
-            if( grades[i] < 38 ) continue;
-            else
-            {
+        for (int i = 0; i < len; i++) {
+            if (grades[i] < 38) continue;
+            else {
                 int sub = (grades[i] + 5) % 5;
-                if( (sub) > 2 ) grades[i] += (5 - sub);
+                if ((sub) > 2) grades[i] += (5 - sub);
             }
         }
         return grades;
