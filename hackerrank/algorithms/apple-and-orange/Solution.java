@@ -7,10 +7,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    // Complete the countApplesAndOranges function below.
-    static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges)
-    {
+    static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {
         int m = apples.length;
         int n = oranges.length;
         int total = m + n;
@@ -20,21 +17,19 @@ public class Solution {
 
         int p = 0;
         boolean isApple = true;
-        for( int i = 0; i < total; i++)
-        {
-            if( isApple && (i == m) )
-            {
+        for (int i = 0; i < total; i++) {
+            if (isApple && (i == m)) {
                 p = 0;
                 isApple = false;
             }
 
-            if( isApple && ((a + apples[p]) >= s) && ((a + apples[p]) <= t) ) in_a++;
-            if( !isApple && ((b + oranges[p]) <= t) && ((b + oranges[p]) >= s) ) in_o++;
+            if (isApple && ((a + apples[p]) >= s) && ((a + apples[p]) <= t)) in_a++;
+            if (!isApple && ((b + oranges[p]) <= t) && ((b + oranges[p]) >= s)) in_o++;
 
             p++;
 
         }
-        System.out.printf( "%d\n%d", in_a, in_o );
+        System.out.printf("%d\n%d", in_a, in_o);
     }
 
     private static final Scanner scanner = new Scanner(System.in);

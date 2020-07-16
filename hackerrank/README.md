@@ -19,6 +19,8 @@
 
 ### Implementation
 - [x] [Grading Students](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/grading)
+- [x] [Apple and Orange](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/apple-and-orange)
+- [x] [Kangaroo](https://github.com/bin-e/algorithm/tree/master/hackerrank/algorithms/kangaroo)
 
 ## java
 - [x] []()
