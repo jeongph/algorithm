@@ -7,15 +7,15 @@ Original: https://www.hackerrank.com/challenges/grading/problem
 ## :question: Problem
 HackerLand University has the following grading policy:
 
-- Every student receives a $grade$ in the inclusive range from $0$ to $100$.
-- Any $grade$ less than $40$ is a failing grade.
+- Every student receives a ![$grade$](https://latex.codecogs.com/svg.latex?grade) in the inclusive range from ![$0$](https://latex.codecogs.com/svg.latex?0) to ![$100$](https://latex.codecogs.com/svg.latex?100).
+- Any ![$grade$](https://latex.codecogs.com/svg.latex?grade) less than ![$40$](https://latex.codecogs.com/svg.latex?40) is a failing grade.
 
-Sam is a professor at the university and likes to round each student's $grade$ according to these rules:
-- If the difference between the $grade$ and the next multiple of $5$ is less than $3$, round $grade$ up to the next multiple of $5$.
-- If the value of $grade$ is less than $38$, no rounding occurs as the result will still be a failing grade.
+Sam is a professor at the university and likes to round each student's ![$grade$](https://latex.codecogs.com/svg.latex?grade) according to these rules:
+- If the difference between the ![$grade$](https://latex.codecogs.com/svg.latex?grade) and the next multiple of ![$5$](https://latex.codecogs.com/svg.latex?5) is less than ![$3$](https://latex.codecogs.com/svg.latex?3), round ![$grade$](https://latex.codecogs.com/svg.latex?grade) up to the next multiple of ![$5$](https://latex.codecogs.com/svg.latex?5).
+- If the value of ![$grade$](https://latex.codecogs.com/svg.latex?grade) is less than ![$38$](https://latex.codecogs.com/svg.latex?38), no rounding occurs as the result will still be a failing grade.
 
-For example, $grade = 84$ will be rounded to $85$ but $grade = 29$ will not be rounded because the rounding would result in a number that is less than $40$.
-Given the initial value of $grade$ for each of Sam's $n$ students, write code to automate the rounding process.
+For example, ![$grade = 84$](https://latex.codecogs.com/svg.latex?grade%20=%2084) will be rounded to ![$85$](https://latex.codecogs.com/svg.latex?85) but ![$grade = 29$](https://latex.codecogs.com/svg.latex?grade%20=%2029) will not be rounded because the rounding would result in a number that is less than ![$40$](https://latex.codecogs.com/svg.latex?40).
+Given the initial value of ![$grade$](https://latex.codecogs.com/svg.latex?grade) for each of Sam's ![$n$](https://latex.codecogs.com/svg.latex?n) students, write code to automate the rounding process.
 
 ### Function Description
 Complete the function gradingStudents in the editor below. It should return an integer array consisting of rounded grades.
@@ -25,15 +25,15 @@ gradingStudents has the following parameter(s):
 - grades: an array of integers representing grades before rounding
 
 ### Input Format
-- The first line contains a single integer, $n$, the number of students.
-- Each line $i$ of the $n$ subsequent lines contains a single integer, $grades[i]$, denoting student $i$'s grade.
+- The first line contains a single integer, ![$n$](https://latex.codecogs.com/svg.latex?n), the number of students.
+- Each line ![$i$](https://latex.codecogs.com/svg.latex?i) of the ![$n$](https://latex.codecogs.com/svg.latex?n) subsequent lines contains a single integer, ![$grades[i]$](https://latex.codecogs.com/svg.latex?grades[i]), denoting student ![$i$](https://latex.codecogs.com/svg.latex?i)'s grade.
 
 ### Constraints
-- $1 \leq n \leq 60$
-- $0 \leq grades[i] \leq 100$
+- ![$1 \leq n \leq 60$](https://latex.codecogs.com/svg.latex?1%20\leq%20n%20\leq%2060)
+- ![$0 \leq grades[i] \leq 100$](https://latex.codecogs.com/svg.latex?0%20\leq%20grades[i]%20\leq%20100)
 
 ### Output Format
-For each $grades[i]$, print the rounded grade on a new line.
+For each ![$grades[i]$](https://latex.codecogs.com/svg.latex?grades[i]), print the rounded grade on a new line.
 
 ### Sample Input 0
 ```
@@ -54,10 +54,10 @@ For each $grades[i]$, print the rounded grade on a new line.
 
 ### Explanation 0
 ![image](https://s3.amazonaws.com/hr-challenge-images/0/1484768684-54439977a1-curving2.png)
-1. Student $1$ received a $73$, and the next multiple of $5$ from $73$ is $75$. Since $75 - 73 < 3$, the student's grade is rounded to $75$.
-2. Student $2$ received a $67$, and the next multiple of $5$ from $67$ is $70$. Since $70 - 67 = 3$, the grade will not be modified and the student's final grade is $67$.
-3. Student $3$ received a $38$, and the next multiple of $5$ from $38$ is $40$. Since $40 - 38 < 3$, the student's grade will be rounded to $40$.
-4. Student $4$ received a grade below $38$, so the grade will not be modified and the student's final grade is $33$.
+1. Student ![$1$](https://latex.codecogs.com/svg.latex?1) received a ![$73$](https://latex.codecogs.com/svg.latex?73), and the next multiple of ![$5$](https://latex.codecogs.com/svg.latex?5) from ![$73$](https://latex.codecogs.com/svg.latex?73) is ![$75$](https://latex.codecogs.com/svg.latex?75). Since ![$75 - 73 < 3$](https://latex.codecogs.com/svg.latex?75%20-%2073%20%3C%203), the student's grade is rounded to ![$75$](https://latex.codecogs.com/svg.latex?75).
+2. Student ![$2$](https://latex.codecogs.com/svg.latex?2) received a ![$67$](https://latex.codecogs.com/svg.latex?67), and the next multiple of ![$5$](https://latex.codecogs.com/svg.latex?5) from ![$67$](https://latex.codecogs.com/svg.latex?67) is ![$70$](https://latex.codecogs.com/svg.latex?70). Since ![$70 - 67 = 3$](https://latex.codecogs.com/svg.latex?70%20-%2067%20=%203), the grade will not be modified and the student's final grade is ![$67$](https://latex.codecogs.com/svg.latex?67).
+3. Student ![$3$](https://latex.codecogs.com/svg.latex?3) received a ![$38$](https://latex.codecogs.com/svg.latex?38), and the next multiple of ![$5$](https://latex.codecogs.com/svg.latex?5) from ![$38$](https://latex.codecogs.com/svg.latex?38) is ![$40$](https://latex.codecogs.com/svg.latex?40). Since ![$40 - 38 < 3$](https://latex.codecogs.com/svg.latex?40%20-%2038%20%3C%203), the student's grade will be rounded to ![$40$](https://latex.codecogs.com/svg.latex?40).
+4. Student ![$4$](https://latex.codecogs.com/svg.latex?4) received a grade below ![$38$](https://latex.codecogs.com/svg.latex?38), so the grade will not be modified and the student's final grade is ![$33$](https://latex.codecogs.com/svg.latex?33).
 
 ## :exclamation: Submit
 ### Solved code
