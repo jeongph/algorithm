@@ -148,8 +148,3 @@ study-algorithm
 <details><summary>HackerRank</summary>
 
 </details>
-
-[/Baekjoon]: ./baekjoon
-[/Programmers]: ./programmers
-[/HackerRank]: ./hackerrank
-
