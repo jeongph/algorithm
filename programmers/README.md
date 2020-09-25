@@ -36,3 +36,4 @@
 - [x] [42576 - 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
 - [x] [42748 - K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
 - [x] [42840 - 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
+- [ ] 
