@@ -83,7 +83,7 @@ study-algorithm
 - [x] [12943 - 콜라츠 추측](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12943)
 - [x] [12944 - 평균 구하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12944)
 - [x] [12947 - 하샤드 수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12947)
-- [ ] [12948 - 핸드폰 번호 가리기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12948)
+- [x] [12948 - 핸드폰 번호 가리기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12948)
 - [ ] [12950 - 행렬의 덧셈](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12950)
 - [x] [12954 - x만큼 간격이 있는 n개의 숫자](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12954)
 - [x] [12969 - 직사각형 별찍기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12969)
@@ -148,8 +148,3 @@ study-algorithm
 <details><summary>HackerRank</summary>
 
 </details>
-
-[/Baekjoon]: ./baekjoon
-[/Programmers]: ./programmers
-[/HackerRank]: ./hackerrank
-
