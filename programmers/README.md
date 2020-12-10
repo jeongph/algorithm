@@ -27,6 +27,7 @@
 - [x] [12930 - 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12931 - 자릿수 더하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12931)
 - [x] [12932 - 자연수 뒤집어 배열로 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12932)
+- [x] [12934 - 정수 제곱근 판별](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12934)
 - [x] [12937 - 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
 - [x] [12943 - 콜라츠 추측](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12943)
 - [x] [12944 - 평균 구하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12944)
@@ -36,4 +37,3 @@
 - [x] [42576 - 완주하지 못한 선수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42576)
 - [x] [42748 - K번째수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42748)
 - [x] [42840 - 모의고사](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/42840)
-- [ ] 
