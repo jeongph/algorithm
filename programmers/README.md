@@ -27,6 +27,7 @@
 - [x] [12930 - 이상한 문자 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12930)
 - [x] [12931 - 자릿수 더하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12931)
 - [x] [12932 - 자연수 뒤집어 배열로 만들기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12932)
+- [x] [12933 - 정수 내림차순으로 배치하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12933)
 - [x] [12934 - 정수 제곱근 판별](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12934)
 - [x] [12935 - 제일 작은 수 제거하기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12935)
 - [x] [12937 - 짝수와 홀수](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12937)
