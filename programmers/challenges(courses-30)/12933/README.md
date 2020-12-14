@@ -13,9 +13,9 @@ x
 - `n`은 1이상 8000000000 이하인 자연수입니다.
 
 ### Input/Output example
-|n|return|
-|---|---|
-|118372|873211|
+| n      | return |
+| ------ | ------ |
+| 118372 | 873211 |
 
 ## :exclamation: Submit
 ### Solved code
