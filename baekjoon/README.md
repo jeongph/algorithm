@@ -49,4 +49,5 @@
 - [x] [11022 - A+B - 8](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/11022)
 - [x] [11654 - 아스키 코드](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/11654)
 - [x] [11720 - 숫자의 합](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/11720)
+- [x] [14681 - 사분면 고르기](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/14681)
 - [x] [15552 - 빠른 A+B](https://github.com/bin-e/algorithm/tree/master/baekjoon/all_problems/15552)
