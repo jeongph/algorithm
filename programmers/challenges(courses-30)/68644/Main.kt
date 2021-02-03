@@ -12,15 +12,10 @@ class Solution {
         var temp = mutableListOf<Int>()
         numbers.forEachIndexed { index, x ->
             numbers.forEachIndexed { index2, y ->
-                if (index != index2) {
-                    temp.add(x + y)
-//                    println("${index} * ${index2} = ${x}, ${y}")
-                }
-
+                if (index != index2) temp.add(x + y)
             }
         }
-        answer = temp.distinct().toIntArray()
-        answer.sort()
+        answer = temp.distinct().sorted().toIntArray()
 
         return answer
     }
