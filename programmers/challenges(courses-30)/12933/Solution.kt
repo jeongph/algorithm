@@ -11,7 +11,3 @@ class Solution {
             temp
         }.toLong()
 }
-
-fun main() {
-    println(Solution().solution(43431897421))
-}
