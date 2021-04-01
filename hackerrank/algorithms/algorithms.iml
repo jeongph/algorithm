@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/a-very-big-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apple-and-orange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/birthday-cake-candles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/breaking-best-and-worst-records" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cats-and-a-mouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/compare-the-triplets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/counting-valleys" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/diagonal-difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/divisible-sum-pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/electronics-shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/migratory-birds" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mini-max-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plus-minus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple-array-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sock-merchant" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solve-me-first" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/staircase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/the-birthday-bar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/the-hurdle-race" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/time-conversion" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -20,43 +20,28 @@ x
 ## :exclamation: Submit
 ### Solved code
 (Important part only)
-``` java
-import java.util.*;
+``` kotlin
+fun solution(n: Long): Long = n.toString()
+        .toList()
+        .sortedDescending()
+        .let { list ->
+            var temp = ""
+            list.forEach { char ->
+                temp += char
+            }
 
-class Solution {
-    public long solution(long n) { // 118372 -> 873211
-        long answer = 0;
-        int counter = 0;
-        ArrayList<Long> al = new ArrayList<Long>();
-
-        while (n >= 1) {
-            al.add(n % 10);
-            ++counter;
-            n /= 10;
-        }
-
-        Collections.sort(al);
-/*        for(long temp: al)
-            System.out.println(temp);*/
-
-        for (int i = 0; i < al.size(); i++) {
-            answer += (long) al.get(i) * Math.pow(10, i);
-        }
-
-        return answer;
-    }
-}
+            temp
+        }.toLong()
 ```
 
 ### Commentary
-- 대략적인 생각 떠오른건 몇자리인지 구하고 배열에 저장했다가 순서대로 꺼내면서 10의 배수로 곱하자
-- 일단 `while`문 돌아서 `n`의 자릿수를 구함, 구하면서 자릿수 하나하나를 ArrayList에 저장(arr보다 효율적일까봐)
-- 정렬을 구하란건진 모르겠으나 일단 `Collections`의 함수 이용해서 정렬
-- 정렬된걸 순서대로 꺼내면서 `10^i` 만큼 곱하면서 만들어야 했던 수로 만들어서 더함
-- 리턴
+- 코틀린으로 수정버전
+- 일단 Long 자체를 각각의 자릿수로 제어할 방법이 바로 떠오르지 않아서 char[]로 사용
+- 일단 컬렉션으로 변경하여 순서를 정렬하고, 정렬된 순서를 더해서 다시 Long으로 변환
+- 답을 리턴, 코틀린답게 함수 일부 수
 
 ### Discussion
-- [ ] 정렬이 껴있는건 구하란거야 가져다 쓰란거야,, 양심에 좀 찔리긴하지만 이게 효율이 좋음.
+- [ ] toList랑 sortedDescending 원리 알아보면 재밌을 듯
 
 ### References
 - (If there is any reference)
