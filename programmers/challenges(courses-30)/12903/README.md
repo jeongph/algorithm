@@ -21,24 +21,30 @@
 ## :exclamation: Submit
 ### Solved code
 (Important part only)
-``` java
-public String solution( String s )
-{
-    String answer = "";
+``` kotlin
+class Solution {
+    fun solution(s: String): String = s.let {
+        val count = it.count()
 
-    int len = s.length();
-    if( len % 2 == 0 ) answer = s.substring( len / 2 - 1, len / 2 + 1 );
-    else answer = s.substring( len / 2, len / 2 + 1 );
+        if (count % 2 == 0) it.substring(count / 2 - 1, count / 2 + 1) // 짝
+        else it.substring(count / 2, count / 2 + 1) // 홀
+    }
+}
 
-    return answer;
+fun main() {
+    val ans = Solution().solution("abcdde") // d
+//    val ans = Solution().solution("Zbcdefg") // d
+    println(ans)
 }
 ```
 
 ### Commentary
-- 음... 1레벨이라그런지 어려운게 없었다. 짝수인지 판별하고 맞으면 길이에서 1뺀값 2글자 아닌경우 중간글자 리턴
+- 코틀린으로 수정했더니 더 쉽게 해결
+- 일단 리턴값을 주긴 하는데 `ans`로 다시 분할하긴 아깝기에 바로 함수처리해서 `let`으로 처리
+- 리턴값 전에 짝수/홀수 구분해서 짝수면 -> 중간 2개, 홀수면 -> 중간에 1개로 리턴
 
 ### Discussion
-- [ ] x
+- [ ] `Kotlin` 특징을 잘 이용하면 더 짧은 코드로도 가능할듯
 
 ### References
 - x
