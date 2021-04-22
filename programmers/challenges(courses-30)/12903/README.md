@@ -30,12 +30,6 @@ class Solution {
         else it.substring(count / 2, count / 2 + 1) // 홀
     }
 }
-
-fun main() {
-    val ans = Solution().solution("abcdde") // d
-//    val ans = Solution().solution("Zbcdefg") // d
-    println(ans)
-}
 ```
 
 ### Commentary

@@ -10,7 +10,7 @@
 
 ### Level 1
 - [x] [12901 - 2016년](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12901)
-- [x] [12903 - 가운데 글자 가져오기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12903)
+- [x] [12903 - 가운데 글자 가져오기](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12903) {Java, Kotlin}
 - [x] [12906 - 같은 숫자는 싫어](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12906)
 - [x] [12910 - 나누어 떨어지는 숫자 배열](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12910)
 - [x] [12912 - 두 정수 사이의 합](https://github.com/bin-e/algorithm/tree/master/programmers/challenges(courses-30)/12912)
