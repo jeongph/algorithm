@@ -28,27 +28,22 @@ x
 ## :exclamation: Submit
 ### Solved code
 (Important part only)
-``` java
-public static void main( String[] args )
-{
-    Scanner sc = new Scanner( System.in );
-    int a = sc.nextInt();
-    int b = sc.nextInt();
+``` kotlin
+fun main(args: Array<String>) {
+    val (a, b) = readLine()!!.split(' ').map(String::toInt)
 
-    for( int i = 0; i < b; i++ )
-    {
-        for( int j = 0; j < a; j++ )
-        {
-            System.out.print( "*" );
-        }
-        System.out.println();
+    for (line in 0..b) {
+        for (star in 0..a)
+            print("*")
+        println()
     }
 }
+
 ```
 
 ### Commentary
-- 별찍기 문제... 그중에서도 꽤 쉬운 편에 속하는
 - 별문제라 별 문제 없이 풀었다.
+- 자바로 풀었던 문제들 코틀린으로 다시 푸는중 -> 확실히 코드가 짧고 간결
 
 ### Discussion
 - [x] (번외)혹시나 하고 다른언어로도 풀어봤는데 풀이한 문제 갯수는 안올라가네
