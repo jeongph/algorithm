@@ -25,32 +25,16 @@
 ## :exclamation: Submit
 ### Solved code
 (Important part only)
-``` java
-public long solution( int a, int b )
-{
-    long answer = 0;
+``` kotlin
+fun solution(a: Int, b: Int): Long {
+        var answer: Long = 0
 
-    if( a == b )
-        answer = a;
-    else if( a > b )
-        answer = calcSum( b, a );
-    else
-        answer = calcSum( a, b );
+        for (cnt in max(a, b) downTo min(a, b)) {
+            answer += cnt
+        }
 
-    return answer;
-}
-
-public long calcSum( int a, int b )
-{
-    long temp = 0;
-
-    while( a <= b )
-    {
-        temp += a++;
+        return answer
     }
-
-    return temp;
-}
 ```
 
 ### Commentary
