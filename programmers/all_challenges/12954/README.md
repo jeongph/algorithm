@@ -31,7 +31,7 @@ class Solution {
         var answer = mutableListOf<Long>()
 
         for (i in 1..n) {
-            answer.add((x * i).toLong())
+            answer.add(x.toLong() * i)
         }
 
         return answer.toLongArray()
@@ -42,6 +42,9 @@ class Solution {
 ### Commentary
 - 문제를 다시 보니까 1부터 `n`까지 `x`를 곱한 값의 배열 이라는 알고리즘이 가능
 - 반복문을 사용해서 1부터 `n`까지 돌면서 `x`를 곱해 (편의를 위해) 리스트에 넣고 배열 형태로 반환
+- 업로드 부터 하고 제출했는데 돌려보니 실패 케이스 2개.. -> `Int`때문에 발생하는 문제임을 직감
+- 자바 풀이처럼 `x`, `y`를 `Long`으로 받았는데 런타임 에러
+- 그냥 선 형변환 후 곱하는걸로 타협
 
 ### Discussion
 - [ ] 코틀린 특성상 for문이나 `var`를 사용하지 않고 더 간결하게 가능할 것 같은데 당장 생각나진 않음.

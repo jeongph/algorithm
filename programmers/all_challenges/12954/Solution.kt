@@ -3,14 +3,9 @@ class Solution {
         var answer = mutableListOf<Long>()
 
         for (i in 1..n) {
-            answer.add((x * i).toLong())
+            answer.add(x.toLong() * i)
         }
 
         return answer.toLongArray()
     }
-}
-
-fun main() {
-    val solution = Solution().solution(2, 5)
-        .forEach { println(it) }
 }
