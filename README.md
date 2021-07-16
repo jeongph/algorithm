@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: ""
+permalink: /
+---
+
 # Algorithm
 study-algorithm
 
@@ -41,20 +49,5 @@ study-algorithm
 [my_Algospot]: https://algospot.com/user/profile/92448
 [my_Leetcode]: https://leetcode.com/dnr1105/
 
-## :bulb: Tips
+## Tips
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
-
-## List of `Solved`
-> checkbox는 풀이 여부 (문제 풀이 완료 시 Template 맞춰서 반드시 풀이 작성 할 것.)
-
-<details><summary>Programmers</summary>
-
-</details>
-
-<details><summary>Baekjoon</summary>
-
-</details>
-
-<details><summary>HackerRank</summary>
-
-</details>
