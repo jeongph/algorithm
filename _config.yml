@@ -1,1 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
+
+# Site Settings
+title                    : "Bin-e's Algorithm"
+#title_separator          : "-"
+name                     : "Jeong-Uk Park"
+description              : "Jeong-Uk's algorithm solving"
+#url                      : ""
+#baseurl                  : ""
+repository               : https://github.com/bin-e/algorithm
