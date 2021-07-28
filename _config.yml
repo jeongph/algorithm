@@ -1,4 +1,5 @@
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 # Site Settings
 title                    : "Bin-e's Algorithm"
@@ -8,3 +9,4 @@ description              : "Jeong-Uk's algorithm solving"
 #url                      : ""
 #baseurl                  : ""
 repository               : https://github.com/bin-e/algorithm
+
