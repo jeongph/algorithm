@@ -37,7 +37,6 @@ study-algorithm
 | Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor      |         | [Link][my_Baekjoon]    |
 | LeetCode              | https://leetcode.com/problemset/all/       | Eng      |         | [Link][my_Leetcode]    |
 | HackerRank            | https://www.hackerrank.com/dashboard       | Eng      |         | [Link][my_Programmers] |
-| --- Unexplored ---    |                                            |          |         |                        |
 | Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |         | [Link][my_Algospot]    |
 | Codility              | https://app.codility.com/programmers/      | Eng      |         |                        |
 | Jung ol               | http://www.jungol.co.kr/                   | Kor      |         |                        |
