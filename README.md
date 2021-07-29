@@ -31,6 +31,13 @@ study-algorithm
 코더로 남고싶진 않다. 개발자가 되고싶다.
 
 ## Algorithm test site list
+| head1        | head two          | three |
+| :----------- | :---------------- | :---- |
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 | List                  | URL                                        | Language | Remarks | My own                 |
 | :-------------------- | :----------------------------------------- | :------- | :------ | :--------------------- |
 | Programmers           | https://programmers.co.kr/learn/challenges | Kor      |         |                        |
@@ -43,15 +50,6 @@ study-algorithm
 | Goorm-level           | https://level.goorm.io/                    | Kor      |         |                        |
 | codingdojang          | http://codingdojang.com/                   | Kor      |         |                        |
 | Code Forces           | https://codeforces.com/                    | Eng      |         |                        |
-
-# Test
-test
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_Programmers]: https://www.hackerrank.com/dnr1105
