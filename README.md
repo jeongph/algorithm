@@ -31,12 +31,6 @@ study-algorithm
 코더로 남고싶진 않다. 개발자가 되고싶다.
 
 ## Algorithm test site list
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 | List                  | URL                                        | Language | Remarks | My own                 |
 | :-------------------- | :----------------------------------------- | :------- | :------ | :--------------------- |
