@@ -1,3 +1,10 @@
+---
+layout: default
+title: K번째수
+parent: Programmers
+nav_order: 42748
+---
+
 - Elapsed time: ???
 
 # K번째수
