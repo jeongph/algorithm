@@ -38,7 +38,7 @@ __code_here__
 
 ## Commentary
 
-__edit_here__
+- __edit_here__
 
 ## Discussion
 
