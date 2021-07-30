@@ -6,6 +6,7 @@ nav_order: 42748
 ---
 
 - Elapsed time: ???
+- Language: Kotlin
 
 # K번째수
 
