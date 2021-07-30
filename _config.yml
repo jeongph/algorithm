@@ -10,3 +10,14 @@ description              : "Jeong-Uk's algorithm solving"
 #baseurl                  : ""
 repository               : https://github.com/bin-e/algorithm
 
+# Aux links for the upper right navigation
+aux_links:
+  "Go to repository":
+    - "//github.com/bin-e/algorithm"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
