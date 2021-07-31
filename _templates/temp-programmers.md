@@ -8,6 +8,7 @@ nav_order: __문제번호__
 - Elapsed time: __해결시간__
 - Language: Kotlin
 
+<!-- 문제 -->
 # __문제__
 
 [출처](__출처링크__)
@@ -28,6 +29,7 @@ __edit_here__
 
 __edit_here__
 
+<!-- 풀이 -->
 # 풀이
 
 ## Code
