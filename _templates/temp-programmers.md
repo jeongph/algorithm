@@ -16,7 +16,7 @@ nav_order: __문제번호__
 
 __edit_here__
 
-## 제한사항
+## 제한 사항
 
 __edit_here__
 
