@@ -6,9 +6,9 @@ title                    : "Bin-e's Algorithm"
 #title_separator          : "-"
 name                     : "Jeong-Uk Park"
 description              : "Jeong-Uk's algorithm solving"
-#url                      : ""
-#baseurl                  : ""
-repository               : https://github.com/bin-e/algorithm
+url                      : "https://bin-e.github.io"
+baseurl                  : "/algorithm"
+repository               : "https://github.com/bin-e/algorithm"
 
 # Aux links for the upper right navigation
 aux_links:
