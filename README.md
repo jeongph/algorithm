@@ -22,7 +22,8 @@ study-algorithm
 ### Rule
 
 - 1순위 언어는 `Kotlin`, 따라서 문제별 `README.md` 의 풀이는 `Kotlin`을 우선으로
-- 다른 언어로 풀이해도 상관 없으나, `README.md` 파일에 해당 언어를 구분해서 기록 (Ex> 자바 풀이 -> `README-java.md`)
+- 다른 언어로 풀이해도 상관 없으나, `README.md` 파일에 해당 언어를 구분해서 기록
+  - (Ex> 자바 풀이 -> `README-java.md`)
 - `README.md` 파일의 형식은 되도록 해당 알고리즘 사이트의 형식과 동일하게
 - __(중요)__ 출처를 반드시 남길 것
 
