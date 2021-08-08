@@ -25,7 +25,7 @@ study-algorithm
 - 다른 언어로 풀이해도 상관 없으나, `README.md` 파일에 해당 언어를 구분해서 기록
   - (Ex> 자바 풀이 -> `README-java.md`)
 - `README.md` 파일의 형식은 되도록 해당 알고리즘 사이트의 형식과 동일하게
-- __(중요)__ 출처를 반드시 남길 것
+- __(중요)__ 문제 출처를 반드시 남길 것
 
 ## Algorithm test site list
 
@@ -35,7 +35,7 @@ study-algorithm
 | LeetCode              | https://leetcode.com/problemset/all/       | Eng      |         | [Link][my_Leetcode]   |
 | Baekjoon Online Judge | https://www.acmicpc.net/                   | Kor      |         | [Link][my_Baekjoon]   |
 | HackerRank            | https://www.hackerrank.com/dashboard       | Eng      |         | [Link][my_HackerRank] |
-| Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |         | [Link][my_Algospot]   |
+| Algospot              | https://algospot.com/judge/problem/list/   | Kor+Eng  |         |                       |
 | Codility              | https://app.codility.com/programmers/      | Eng      |         |                       |
 | Jung ol               | http://www.jungol.co.kr/                   | Kor      |         |                       |
 | Goorm-level           | https://level.goorm.io/                    | Kor      |         |                       |
