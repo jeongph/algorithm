@@ -34,7 +34,7 @@ __edit_here__
 
 ## Code
 
-``` kotlin
+``` java
 __code_here__
 ```
 
