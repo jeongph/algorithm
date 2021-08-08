@@ -5,13 +5,13 @@ parent: Programmers
 nav_order: __문제번호__
 ---
 
-- Elapsed time: __해결시간__
+- Elapsed time: 00:00:00
 - Language: Java
 
 <!-- 문제 -->
 # __문제__
 
-[출처](__출처링크__)
+출처
 
 ## 문제 설명
 
@@ -47,4 +47,5 @@ __code_here__
 - [ ] x
 
 ## References
+
 - x
