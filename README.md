@@ -66,5 +66,3 @@ study-algorithm
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
 [my_HackerRank]: https://www.hackerrank.com/dnr1105
 [my_Algospot]: https://algospot.com/user/profile/92448
-
-$0<=ar[i]<=10^{10}$
