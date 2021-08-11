@@ -61,6 +61,11 @@ study-algorithm
 
 - 레퍼런스나 모르는거 검색할 때 검색어에 `Docs`나 `Document`를 함께 넣어서 검색해야 블로그 포스트보다 다큐먼트 문서가 잘 나오는 것 같음.
 
+## Tools
+
+- [수식입력기](https://www.codecogs.com/latex/eqneditor.php)
+- [수식입력기 v5.8](https://latex.codecogs.com/)
+
 <!-- Link here -->
 [my_Leetcode]: https://leetcode.com/dnr1105/
 [my_Baekjoon]: https://www.acmicpc.net/user/dnr1105
