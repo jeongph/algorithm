@@ -3,6 +3,7 @@ layout: default
 title: Problems
 nav_order: 4
 description: "Problems"
+has_children: true
 permalink: /problems
 ---
 
