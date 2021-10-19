@@ -2,8 +2,9 @@
 layout: default
 title: Hackerrank
 nav_order: 30
+parent: Problems
 has_children: true
-permalink: /hackerrank
+permalink: /problems/hackerrank
 ---
 
 # Solved the problem of `Hackerrank`
