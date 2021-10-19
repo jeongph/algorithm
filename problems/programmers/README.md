@@ -2,7 +2,7 @@
 layout: default
 title: Programmers
 nav_order: 10
-parent: /Problems
+parent: Problems
 has_children: true
 permalink: /problems/programmers
 ---
