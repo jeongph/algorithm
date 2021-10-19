@@ -2,6 +2,7 @@
 layout: default
 title: Baekjoon
 nav_order: 20
+parent: Problems
 has_children: true
 permalink: /problems/baekjoon
 ---
