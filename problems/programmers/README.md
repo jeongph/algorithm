@@ -2,8 +2,9 @@
 layout: default
 title: Programmers
 nav_order: 10
+parent: Problems
 has_children: true
-permalink: /programmers
+permalink: /problems/programmers
 ---
 
 # Solved the problem of `Programmers`
