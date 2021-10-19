@@ -2,6 +2,7 @@
 layout: default
 title: 가운데 글자 가져오기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12903
 ---
 
