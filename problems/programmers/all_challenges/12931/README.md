@@ -2,6 +2,7 @@
 layout: default
 title: 자릿수 더하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12931
 ---
 

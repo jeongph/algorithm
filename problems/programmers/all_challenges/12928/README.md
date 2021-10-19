@@ -2,6 +2,7 @@
 layout: default
 title: 약수의 합
 parent: Programmers
+grand_parent: Problems
 nav_order: 12928
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: 완주하지 못한 선수
 parent: Programmers
+grand_parent: Problems
 nav_order: 42576
 ---
 

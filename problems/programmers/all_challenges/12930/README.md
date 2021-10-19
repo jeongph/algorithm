@@ -2,6 +2,7 @@
 layout: default
 title: 이상한 문자 만들기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12930
 ---
 

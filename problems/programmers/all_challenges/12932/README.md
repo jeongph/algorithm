@@ -2,6 +2,7 @@
 layout: default
 title: 자연수 뒤집어 배열로 만들기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12932
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: 문자열 내 p와 y의 개수
 parent: Programmers
+grand_parent: Problems
 nav_order: 12916
 ---
 

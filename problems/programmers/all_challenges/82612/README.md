@@ -2,6 +2,7 @@
 layout: default
 title: 부족한 금액 계산하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 82612
 ---
 

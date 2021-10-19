@@ -2,6 +2,7 @@
 layout: default
 title: 정수 제곱근 판별
 parent: Programmers
+grand_parent: Problems
 nav_order: 12934
 ---
 

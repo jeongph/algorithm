@@ -2,6 +2,7 @@
 layout: default
 title: 나누어 떨어지는 숫자 배열
 parent: Programmers
+grand_parent: Problems
 nav_order: 12910
 ---
 

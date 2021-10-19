@@ -2,6 +2,7 @@
 layout: default
 title: 두 개 뽑아서 더하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 68644
 ---
 

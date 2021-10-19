@@ -2,6 +2,7 @@
 layout: default
 title: 문자열 압축
 parent: Programmers
+grand_parent: Problems
 nav_order: 60057
 ---
 

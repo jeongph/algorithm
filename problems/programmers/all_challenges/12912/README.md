@@ -2,6 +2,7 @@
 layout: default
 title: 두 정수 사이의 합
 parent: Programmers
+grand_parent: Problems
 nav_order: 12912
 ---
 

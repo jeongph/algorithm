@@ -2,6 +2,7 @@
 layout: default
 title: 내적
 parent: Programmers
+grand_parent: Problems
 nav_order: 70128
 ---
 

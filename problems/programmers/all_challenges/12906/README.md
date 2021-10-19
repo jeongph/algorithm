@@ -2,6 +2,7 @@
 layout: default
 title: 같은 숫자는 싫어
 parent: Programmers
+grand_parent: Problems
 nav_order: 12906
 ---
 

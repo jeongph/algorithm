@@ -2,6 +2,7 @@
 layout: default
 title: 제일 작은 수 제거하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12935
 ---
 

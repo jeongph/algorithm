@@ -2,6 +2,7 @@
 layout: default
 title: 수박수박수박수박수박수?
 parent: Programmers
+grand_parent: Problems
 nav_order: 12922
 ---
 

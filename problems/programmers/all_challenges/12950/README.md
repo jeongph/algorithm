@@ -2,6 +2,7 @@
 layout: default
 title: 행렬의 덧셈
 parent: Programmers
+grand_parent: Problems
 nav_order: 12950
 ---
 

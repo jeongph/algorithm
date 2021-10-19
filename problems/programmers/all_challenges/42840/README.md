@@ -2,6 +2,7 @@
 layout: default
 title: 모의고사
 parent: Programmers
+grand_parent: Problems
 nav_order: 42840
 ---
 

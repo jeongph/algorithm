@@ -2,6 +2,7 @@
 layout: default
 title: 하샤드 수
 parent: Programmers
+grand_parent: Problems
 nav_order: 12947
 ---
 

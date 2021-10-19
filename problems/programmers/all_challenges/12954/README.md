@@ -2,6 +2,7 @@
 layout: default
 title: x만큼 간격이 있는 n개의 숫자
 parent: Programmers
+grand_parent: Problems
 nav_order: 12954
 ---
 

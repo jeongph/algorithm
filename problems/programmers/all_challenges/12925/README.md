@@ -2,6 +2,7 @@
 layout: default
 title: 문자열을 정수로 바꾸기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12925
 ---
 

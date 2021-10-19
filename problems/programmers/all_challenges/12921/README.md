@@ -2,6 +2,7 @@
 layout: default
 title: 소수 찾기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12921
 ---
 

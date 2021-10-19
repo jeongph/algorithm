@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 2016년
-parent: /Problems/Programmers
+parent: Programmers
+grand_parent: Problems
 nav_order: 12901
 ---
 

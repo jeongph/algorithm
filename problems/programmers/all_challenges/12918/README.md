@@ -2,6 +2,7 @@
 layout: default
 title: 문자열 다루기 기본
 parent: Programmers
+grand_parent: Problems
 nav_order: 12918
 ---
 

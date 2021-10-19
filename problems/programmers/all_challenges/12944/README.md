@@ -2,6 +2,7 @@
 layout: default
 title: 평균 구하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12944
 ---
 

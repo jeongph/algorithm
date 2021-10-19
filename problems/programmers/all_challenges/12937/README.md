@@ -2,6 +2,7 @@
 layout: default
 title: 짝수와 홀수
 parent: Programmers
+grand_parent: Problems
 nav_order: 12937
 ---
 

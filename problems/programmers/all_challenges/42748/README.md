@@ -2,6 +2,7 @@
 layout: default
 title: K번째수
 parent: Programmers
+grand_parent: Problems
 nav_order: 42748
 ---
 

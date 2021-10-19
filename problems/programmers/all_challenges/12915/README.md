@@ -2,6 +2,7 @@
 layout: default
 title: 문자열 내 마음대로 정렬하기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12915
 ---
 

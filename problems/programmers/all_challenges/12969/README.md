@@ -2,6 +2,7 @@
 layout: default
 title: 직사각형 별찍기
 parent: Programmers
+grand_parent: Problems
 nav_order: 12969
 ---
 

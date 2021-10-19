@@ -2,6 +2,7 @@
 layout: default
 title: 시저 암호
 parent: Programmers
+grand_parent: Problems
 nav_order: 12926
 ---
 

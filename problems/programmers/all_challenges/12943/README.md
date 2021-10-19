@@ -2,6 +2,7 @@
 layout: default
 title: 콜라츠 추측
 parent: Programmers
+grand_parent: Problems
 nav_order: 12943
 ---
 
