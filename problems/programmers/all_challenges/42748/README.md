@@ -6,7 +6,7 @@ grand_parent: Problems
 nav_order: 42748
 ---
 
-- Elapsed time: ???
+- Elapsed time: 00:00:00
 - Language: Kotlin
 
 # K번째수

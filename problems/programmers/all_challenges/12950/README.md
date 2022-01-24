@@ -6,7 +6,7 @@ grand_parent: Problems
 nav_order: 12950
 ---
 
-- Elapsed time: __해결시간__
+- Elapsed time: 00:00:00
 - Language: Java
 
 <!-- 문제 -->

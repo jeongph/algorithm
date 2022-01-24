@@ -3,7 +3,7 @@ layout: default
 title: 핸드폰 번호 가리기
 parent: Programmers
 grand_parent: Problems
-nav_order: __문제번호__
+nav_order: 12948
 ---
 
 - Elapsed time: 00:00:00
