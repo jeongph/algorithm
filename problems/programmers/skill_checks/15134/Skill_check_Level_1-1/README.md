@@ -1,4 +1,12 @@
-# 스킬 체크 테스트 Level 1
+---
+layout: default
+title: 스킬 체크 테스트 Level 1-1
+parent: Programmers
+grand_parent: Problems
+nav_order: 99999
+---
+
+# 스킬 체크 테스트 Level 1-1
 
 ## 문제 설명
 문자열 s는 한 개 이상의 단어로 구성되어 있습니다.
@@ -10,16 +18,17 @@
 - 첫 번째 글자는 0번째 인덱스로 보아 짝수번째 알파벳으로 처리해야 합니다.
 
 ## 입출력 예
-|s|return|
-|---|---|
-|try hello|TrY HeLlO|
+| s         | return    |
+| --------- | --------- |
+| try hello | TrY HeLlO |
 
 ## 입출력 예 설명
 "try hello"는 두 단어 "try", "Hello"로 구성되어 있습니다.
 각 단어의 짝수번째 문자를 대문자로, 홀수번째 문자를 소문자로 바꾸면 오른쪽과 같은 출력을 리턴합니다.
 
 ## Submit
-<pre><code> # 중요 코드
+``` java 
+// 중요 코드
 public String solution(String s) {
         String answer = "";
 
@@ -48,7 +57,7 @@ public String solution(String s) {
 
         return answer;
     }
-</code></pre>
+```
 
 - 처음에 구분이 공백기준인지 모르고 전체 문자열 기준으로 했다가 삽질 계속함..
 - 먼저 전체 출력문을 돌면서 해당 문자가 공백인지 판단해야함(이걸 판단해야 처음 시작 위치를 구할 수 있음)

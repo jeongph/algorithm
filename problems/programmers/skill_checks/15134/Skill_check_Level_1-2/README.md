@@ -1,3 +1,11 @@
+---
+layout: default
+title: 스킬 체크 테스트 Level 1-2
+parent: Programmers
+grand_parent: Problems
+nav_order: 99999
+---
+
 # 스킬 체크 테스트 Level 1-2
 
 ## 문제 설명
@@ -9,14 +17,15 @@
 - n은 1000이하인 자연수.
 
 ## 입출력 예
-|x|n|answer|
-|---|---|---|
-|2|5|[2,4,6,8,10]|
-|4|3|[4, 8, 12]|
-|-4|2|[-4, -8]|
+| x   | n   | answer       |
+| --- | --- | ------------ |
+| 2   | 5   | [2,4,6,8,10] |
+| 4   | 3   | [4, 8, 12]   |
+| -4  | 2   | [-4, -8]     |
 
 ## Submit
-<pre><code> # 중요 코드
+``` java
+// 중요 코드
 class Solution {
     public long[] solution(int x, int n) {
         long[] answer = new long[n];
@@ -30,7 +39,7 @@ class Solution {
         return answer;
     }
 }
-</code></pre>
+```
 
 - 첫번째 문제가 작은 함정이 있었어서 그런지 생각보다 두번째문제는 직구
 - 그냥 long(범위가 천만밖에 안됨)으로 선언해서 n개를 돌아가는 반복문 for를 돌림
