@@ -2,11 +2,13 @@
 layout: default
 title: __문제__
 parent: Programmers
+grand_parent: Problems
 nav_order: __문제번호__
 ---
 
-- Elapsed time: __해결시간__
-- Language: Kotlin
+- Elapsed time: 00:00:00
+- Language: Java
+- Time & Space complexity: ?/?
 
 <!-- 문제 -->
 # __문제__
@@ -34,7 +36,7 @@ __edit_here__
 
 ## Code
 
-``` kotlin
+``` java
 __code_here__
 ```
 
