@@ -48,16 +48,38 @@ Explanation: From left to right, it reads -121. From right to left, it becomes 1
 ## Code
 
 ``` java
-__code_here__
+public class PalindromeNumber {
+    public boolean isPalindrome(int x) {
+        boolean ans = true;
+        String xToStr = Integer.toString(x);
+        int decalPointer = xToStr.length() - 1;
+
+        if (xToStr.charAt(0) == '-') ans = false;
+        else {  // negative check
+            for (int i = 0; i < (xToStr.length() / 2); i++) {
+                if (xToStr.charAt(i) != xToStr.charAt(decalPointer)) ans = false;
+                else --decalPointer;
+            }
+        }
+
+        return ans;
+    }
+}
+
 ```
 
 ## Commentary
 
-- __edit_here__
+- 먼저, 정수형 자체로 비교하기 쉽지않으므로 문자열로 변환( use `Integer.toString`)
+- 리턴형을 바로 던져도 되지만 함수를 모두 타고나서 결과를 반환하기 위해 리턴값 `ans`를 정의
+- (초기값을 `false`로 하려고 했지만, 아래 나오는 `if`문의 더 명확한 파이프라인을 위해 `true`로 정의)
+- 음수의 경우 뒤에도 `-`가 붙을 수 없으므로 나오자마자 `false`, 이후 추가 계산은 하지않음
+- 양수의 경우 각각 앞과 뒤에서 포인터를 한칸씩 옮겨가며 앞뒤가 똑같은지 비교 -> 아닐경우 `false`를 리턴
+- 해당 조건문에 하나도 걸리지 않으면 `true`
 
 ## Discussion
 
-- [ ] x
+- [ ] Follow up: Could you solve it without converting the integer to a string?
 
 ## References
 
