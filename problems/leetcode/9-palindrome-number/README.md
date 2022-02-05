@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Palindrome Number
+title: 9. Palindrome Number
 parent: LeetCode
 grand_parent: Problems
 nav_order: 9
